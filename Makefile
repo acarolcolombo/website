@@ -1,5 +1,5 @@
 all: 
-	eleventy
+	eleventy --config=config.js
 
 serve:
 	eleventy --serve

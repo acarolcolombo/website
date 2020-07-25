@@ -26,3 +26,6 @@ Content added to the template is inserted into every page that uses that templat
 
 **Sidenote:** Markdown files not called `index.md` are transformed into a folder + `index.html` file. For example, `about.md` becomes `about/index.html` instead of `about.html`.
 
+### Configuration
+
+We can configure Eleventy using the `config.js` file. For example, we can use that to tll it to copy folders and files to the output (`_site`). This is useful to copy folder with CSS files, images, and other files that aren't HTML and Markdown. The default name for the configuration file is `eleventy.js` bt we changed it to `config.js` in the `Makefile`.
