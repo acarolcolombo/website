@@ -5,11 +5,28 @@
         <title>{{ pageTitle }}</title>
     </head>
     <body>
+
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+        </ul>
+
+        <hr>
+
         <h1>{{ pageTitle }}</h1>
 
         <p>{{ date }}<p>
 
         {{ content }}
+
+        <hr>
+
+        <footer>
+
+        <p>Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a></p>
+        <p>Source code: <a target="_blank" href="https://github.com/acarolcolombo/caroldoscopio">Github</a></p>
+        
+        </footer>
 
     </body>
 </html>
