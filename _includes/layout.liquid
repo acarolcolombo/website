@@ -16,7 +16,7 @@
 
         <h1>{{ pageTitle }}</h1>
 
-        <p>{{ date }}<p>
+        <p>{{ date | date: "%B %d, %Y" }}<p>
 
         {{ content }}
 
