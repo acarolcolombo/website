@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-pageTitle: About
+title: About
 date: 2020-07-25
 ---
 

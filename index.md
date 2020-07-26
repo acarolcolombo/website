@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-pageTitle: Caroldoscopio
+title: Caroldoscopio
 date: 2020-07-25
 ---
 

@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>{{ pageTitle }}</title>
+        <title>{{ title }}</title>
         <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
@@ -10,15 +10,23 @@
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
+            <li><a href="/posts">Entrevistas</a></li>
         </ul>
 
         <hr>
 
-        <h1>{{ pageTitle }}</h1>
+        <h1>{{ title }}</h1>
 
         <p>{{ date | date: "%B %d, %Y" }}<p>
 
         {{ content }}
+
+        {% for post in collections.posts %}
+            <p>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
+            ({{ post.data.date  | date: "%B %d, %Y"}}) 
+            </p>
+        {% endfor %}
 
         <hr>
 
