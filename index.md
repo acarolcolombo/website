@@ -1,9 +1,14 @@
 ---
 layout: layout.liquid
 title: Caroldoscopio
+image: home-image.jpg
 date: 2020-07-25
 ---
 
-## Multitudes, Multifaces, Multiopiniões
+## A multitude das palavras (e dos mundos) sob diferentes perspectivas.
 
-Entrevistas com pessoas como você, com pontos de vistas e de interacao no mundo. Pessoal mas com um toque abrangente. Para criar empatia, ver a vida com outras perspectivas, e se distrair. Um encontro com o seu lado desconhecido e amigo, diferente e comum, inovador e tradicional, idealístico e pé no chão. Talvez nem tudo te traga percepções ou interesse, mas definitivamente, te trará mais perto de alguém ou de você mesmo.
+Resolvi criar esse site para contar histórias através de entrevistas.
+
+Histórias podem mudar perspectivas, economias e crenças. A mesma história pode ser contada por diferentes pessoas em diferentes contextos. Não apenas cada contador de história ou cada contexto pode mudar a forma da história, mas cada ouvinte ou leitor pode interpretá-la diferentemente baseado nas suas próprias experiências e conhecimento prévios.
+
+Esta é a beleza da história. Como em um livro, ela pode estar sempre lá, simples e plena, mas cheia de significados. Ou como no folclore, ela pode estar sempre mudando, mas cheia da mesma essência. 

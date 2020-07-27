@@ -5,17 +5,21 @@
         <title>{{ title }}</title>
         <link rel="stylesheet" href="/css/style.css">
     </head>
+
+    <header>
+        <h1>{{ title }}</h1>
+        <img class="banner" src="/assets/{{ image }}" alt="home-image"> 
+    </header>
+
     <body>
 
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
+            <li><a href="/about">Sobre</a></li>
             <li><a href="/posts">Entrevistas</a></li>
         </ul>
 
         <hr>
-
-        <h1>{{ title }}</h1>
 
         <p>{{ date | date: "%B %d, %Y" }}<p>
 
