@@ -1,6 +1,23 @@
 header {
     font-size: 16pt;
-    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 24pt;
+    color: rgb(24, 170, 90);
+}
+
+.menu {
+    margin-top: 10px;
+    float: right;
+    padding: 5px;
+    margin: 5px;
+    word-spacing: 15px;
+}
+
+.banner{
+    width: 100%;
 }
 
 body {
@@ -8,10 +25,6 @@ body {
     color: #333333;
 }
 
-h1 {
-    font-size: 18pt;
-    color: blueviolet;
-}
 
 h2 {
     font-size: 14pt;

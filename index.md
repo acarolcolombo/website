@@ -2,7 +2,6 @@
 layout: layout.liquid
 title: Caroldoscopio
 image: home-image.jpg
-date: 2020-07-25
 ---
 
 ## A multitude das palavras (e dos mundos) sob diferentes perspectivas.
