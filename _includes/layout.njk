@@ -7,30 +7,29 @@
     </head>
 
     <header>
-        <h1>{{ title }}</h1>
-        
+
+        {% block title %}
+            <h1>{{ title }}</h1>
+        {% endblock %}
+
         <div class="menu">
             <a href="/">Home</a></li>
             <a href="/about">Sobre</a></li>
             <a href="/posts">Entrevistas</a></li>
         </div>
 
-        <img class="banner" src="/assets/{{ image }}" alt="home-image"> 
+        <img class="banner" src="/assets/{{ image }}" alt="{{ image_alt }}"> 
 
     </header>
 
     <body>
 
-        <p>{{ date | date: "%B %d, %Y" }}<p>
+        {% block content %}
+            {{ content | safe }}
+        {% endblock %}
 
-        {{ content }}
 
-        {% for post in collections.posts %}
-            <p>
-            <a href="{{ post.url }}">{{ post.data.title }}</a>
-            ({{ post.data.date  | date: "%B %d, %Y"}}) 
-            </p>
-        {% endfor %}
+
 
         <hr>
 

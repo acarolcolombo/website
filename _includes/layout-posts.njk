@@ -1,0 +1,22 @@
+{% extends "layout.njk" %}
+
+{% block title %}
+<h1>Entrevistas</h1>
+{% endblock %}
+
+{% block content %}
+
+    <h1>{{ title }}</h1>
+
+    <p>{{ date }}</p>
+
+    {% for post in collections.posts %}
+        <p>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        ({{ post.data.date }}) 
+        </p>
+    {% endfor %}
+
+    {{ content | safe }}
+
+{% endblock %}

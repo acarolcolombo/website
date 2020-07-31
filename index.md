@@ -1,7 +1,8 @@
 ---
-layout: layout.liquid
+layout: layout.njk
 title: Caroldoscopio
 image: home-image.jpg
+image_alt: Bla
 ---
 
 ## A multitude das palavras (e dos mundos) sob diferentes perspectivas.

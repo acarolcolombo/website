@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: layout-posts.njk
 title: "Entrevistando minha mãe: o que você sabe sobre a sua?"
 date: 2020-07-26
 tags: posts

@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: layout.njk
 title: About
 image: about-image.jpg
 ---

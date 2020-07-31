@@ -18,11 +18,13 @@ Weŕe using a `Makefile` to create rules for generating, serving and cleaning th
 
 ### Templates (basics)
 
-The page content (the text) is created in Markdown file (`.md`) and converted to HTML by Eleventy. The site layout (the HTML around the content) is defined in "templates"defined in the `_includes` folder. The template language is called [Liquid](https://shopify.github.io/liquid/). Eleventy will combine the content (Markdown) with the template (Liquid) to generate the HTML files in `_site`.
+The page content (the text) is created in Markdown file (`.md`) and converted to HTML by Eleventy. The site layout (the HTML around the content) is defined in "templates" defined in the `_includes` folder. The template language is called [Nunjucks](https://mozilla.github.io/nunjucks/templating.html). Eleventy will combine the content (Markdown) with the template (Nunjucks) to generate the HTML files in `_site`.
 
-All of the text in the Markdown file is included in the `{{ content }}` variable in the template. Extra avriables ca be defined in the header of te Markdown file. These can then be acessed in the template using the same synthax (for example `{{ date }}` and `{{ title}}`).
+**Sidenote:** We started the site with the template language Liquid, but changed to Nunjucks because of the lack of Template Inheritance (see explanation below).
 
-**Sidenote:** Dates aee automatically formatted by Eleventy.
+All of the text in the Markdown file is included in the `{{ content | safe }}` variable in the template. Extra avriables ca be defined in the header of te Markdown file. These can then be acessed in the template using the same synthax (for example `{{ date }}` and `{{ title}}`).
+
+**Sidenote:** Dates are automatically formatted by Eleventy.
 
 Content added to the template is inserted into every page that uses that template. We can use this to generate headers and footers that are the same for all pages, for example.
 
@@ -34,6 +36,10 @@ Eleventy includes all site content in the `collections` template variable. It is
     {{post.url }}
 {% endfor %}
 ```
+
+Template Inheritance is an easy way to reuse templates. There is a parent (main) template which can be modified by another template. Therefore, it is possible to keep certain features, such as the same header and footer in all the pages. To do that, it is necessary to define "blocks" that child templates can override. See more details in [here](https://mozilla.github.io/nunjucks/templating.html#template-inheritance). Remember to change the layout name in each Markdown header.
+
+**Sidenote:** The parent template should be as general as possible, so that we can use it to specify things in each page. A way to do that is creating a lot of "blocks" `{% block example %} {% endblock %}` and variables `{{ example }}`.
 
 ### Configuration
 
