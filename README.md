@@ -6,6 +6,8 @@ Eleventy: https://www.11ty.dev/
 
 Tutorial: https://www.filamentgroup.com/lab/build-a-blog/
 
+Github action status: ![build-html](https://github.com/acarolcolombo/caroldoscopio/workflows/build-html/badge.svg)
+
 ## Notes:
 
 ### Generating the HTML
