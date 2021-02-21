@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+{% block head %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Define metadata -->
+  <meta name="author" content="{{ info.site_author }}"/>
+  <meta name="keywords" content="{{ info.keywords }}"/>
+
+  {% if page.url == "/" %}
+    <title>{{ info.site_name }}</title>
+  {% else %}
+    <title>{{ title | safe }} | {{ info.site_name }}</title>
+  {% endif %}
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- Site favicon -->
+  <link rel="shortcut icon" href="/assets/favicon.png">
+{% endblock %}
+</head>
+
+<body>
+
+  <header style="background-image: url(/{{ banner }});" >
+  {% block header %}
+    <div class="navigation">
+      <div class="brand">
+        <a href="/">{{ info.site_name }}</a>
+      </div>
+      <div class="menu">
+        <ul>
+          {% for name, url in info.site_menu %}
+            <li><a href="{{ url }}">{{ name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endblock %}
+  </header>
+
+  {% block body %}
+  {% endblock %}
+
+  <footer>
+  {% block footer %}
+    <p>
+      Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
+    </p>
+    <p>
+      Source code: <a target="_blank" href="https://github.com/acarolcolombo/caroldoscopio">Github</a>
+    </p>
+  {% endblock %}
+  </footer>
+
+</body>
+
+</html>

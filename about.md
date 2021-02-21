@@ -1,10 +1,10 @@
 ---
-layout: layout.njk
+layout: page.njk
 title: About
 image: about-image.jpg
 ---
 
-Meu nome: Ana Caroline Colombo. Mas talvez você me conheça por Carol, Nani, Paper, ou Ana. Se ainda não me conhece, trago uma descrição breve. 
+Meu nome: Ana Caroline Colombo. Mas talvez você me conheça por Carol, Nani, Paper, ou Ana. Se ainda não me conhece, trago uma descrição breve.
 
 Aprecio e valorizo relacionamentos e emoções. Adoro a simplicidade. Gosto de estudar, espalhar conhecimento e estar em contato com a natureza. Sou bióloga e professora. Dona de casa e mãe no momento. Uma brasileira em Liverpool, Inglaterra. Já morei em 7 cidades em 3 países diferentes. Conheci muita gente pelo caminho e sou o que sou por todos esses contatos e trocas de experiências.
 

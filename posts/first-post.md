@@ -1,11 +1,11 @@
 ---
-layout: layout-posts.njk
+layout: post.njk
 title: "Entrevistando minha mãe: o que você sabe sobre a sua?"
 date: 2020-07-26
 tags: posts
 ---
 
-Na primeira entrevista do blog queria trazer um pouco do desconhecido conhecido. Uma pitada do que esse projeto se baseia: simplicidade, autenticidade, empatia e valorização. E por que não conversar com a pessoa que mudou a própria vida para criar vida, a pessoa que é tão próxima mas que às vezes não conhecemos tanto quanto poderíamos? Por que não começar pela minha mãe? E a escolha vem ainda mais carregada de significado porque estou grávida. Isso me lembra muito do trecho da música: 
+Na primeira entrevista do blog queria trazer um pouco do desconhecido conhecido. Uma pitada do que esse projeto se baseia: simplicidade, autenticidade, empatia e valorização. E por que não conversar com a pessoa que mudou a própria vida para criar vida, a pessoa que é tão próxima mas que às vezes não conhecemos tanto quanto poderíamos? Por que não começar pela minha mãe? E a escolha vem ainda mais carregada de significado porque estou grávida. Isso me lembra muito do trecho da música:
 
 > Você me diz que seus pais não o entendem
 <br>
@@ -36,9 +36,9 @@ Filhos: 2 (Carol, 31 e Leo, 28)
 <li>
 Como você lidou com a demanda família x trabalho ao se tornar mãe? </li>
 
-Quando você era pequena, nós tínhamos um mercado e eu conseguia me virar com você, porque podia levá-la comigo. Além disso, tínhamos uma empregada doméstica que ajudava muito. Mas depois, vendemos o mercado, fiquei grávida do Leo, e tinha vocês dois pequenos. 
+Quando você era pequena, nós tínhamos um mercado e eu conseguia me virar com você, porque podia levá-la comigo. Além disso, tínhamos uma empregada doméstica que ajudava muito. Mas depois, vendemos o mercado, fiquei grávida do Leo, e tinha vocês dois pequenos.
 
-“Sentia que faltava alguma coisa, gostaria de trabalhar fora. Mas foi indo e acabei ficando uns 5 anos em casa.” 
+“Sentia que faltava alguma coisa, gostaria de trabalhar fora. Mas foi indo e acabei ficando uns 5 anos em casa.”
 
 Comecei a fazer unha em um determinado momento. Acho que vocês já eram grandinhos quando entrei no pedágio. Mas eu conseguia fazer o serviço da casa e cuidar de vocês. Vocês já estavam grandes, não precisavam tanto de mim e sempre gostei muito do trabalho, o que nunca foi um peso. Antigamente, vocês brincavam muito na rua, com vizinhos, quase não assistiam TV. Não davam trabalho.
 
@@ -58,11 +58,11 @@ A gente saía muito quando vocês eram pequenos. Mas depois, entre ficar em casa
 
 “Você quer que eu chore né? Falar disso me faz chorar. É estranho, mas me dá muita emoção.”
 
-Lembro mais coisa de você do que do Leo. Não sei o porquê. Desde pequenininha, eu sempre conversei tudo, tudo com você. Sempre contei o que eu ia fazer, o que estava fazendo. 
+Lembro mais coisa de você do que do Leo. Não sei o porquê. Desde pequenininha, eu sempre conversei tudo, tudo com você. Sempre contei o que eu ia fazer, o que estava fazendo.
 
-Quando estava grávida do Leo, eu te explicava, falava que estava grávida, falava do bebê. Lembro uma vez que uma senhora perguntou para você: ‘ah, mamãe está grávida?’ e com 2 aninhos e pouco, você respondeu: ‘ah, sim. Vão cortar a barriga da minha mãe, vão tirar o bebê de dentro…’ A senhora ficou horrorizada! 
+Quando estava grávida do Leo, eu te explicava, falava que estava grávida, falava do bebê. Lembro uma vez que uma senhora perguntou para você: ‘ah, mamãe está grávida?’ e com 2 aninhos e pouco, você respondeu: ‘ah, sim. Vão cortar a barriga da minha mãe, vão tirar o bebê de dentro…’ A senhora ficou horrorizada!
 
-Eu conversava com você na minha barriga e quando nasceu, como se fosse um adulto (não falava coisas de adultos), mas tudo bem natural. Eu sempre te tratava como uma pessoinha mesmo. E com o Leo também. E como a gente sempre conversou, você sempre me contou as coisas. Você chegava da escola e contava tudo: da hora que entrava até a hora que saía. Contava o que seu amigo falou, o que a professora falou, etc. Eu só perguntava o que tinha acontecido no seu dia e você começava a falar e não parava. Leo demora, às vezes, mas ele conta. Quando ele fala: ‘mãe você não sabe..’, eu já gelo porque sei que vem uma bomba. 
+Eu conversava com você na minha barriga e quando nasceu, como se fosse um adulto (não falava coisas de adultos), mas tudo bem natural. Eu sempre te tratava como uma pessoinha mesmo. E com o Leo também. E como a gente sempre conversou, você sempre me contou as coisas. Você chegava da escola e contava tudo: da hora que entrava até a hora que saía. Contava o que seu amigo falou, o que a professora falou, etc. Eu só perguntava o que tinha acontecido no seu dia e você começava a falar e não parava. Leo demora, às vezes, mas ele conta. Quando ele fala: ‘mãe você não sabe..’, eu já gelo porque sei que vem uma bomba.
 
 Eu sempre falava a verdade para vocês dois. Vocês falavam que a gente tinha dinheiro. E eu falava: ‘não tenho não.’ E vocês respondiam: ‘mas você tem cheque.’ E eu explicava que cheque não era dinheiro. Além disso, vocês sempre estudaram em escola particular, com gente rica. E nem por isso vcs era. Sempre falei a verdade: ‘vocês estão aí por causa do seu avô, com o objetivo de terem uma vida melhor.  A gente não tem muito dinheiro, mas isso não é o importante.’ Sempre mostrando a verdade dos dois lados. Você sempre ia em festas mais chiques, mas você nunca teve uma. Você nunca teve inveja ou pode ser que até sentiram, mas eu nunca percebi isso.
 
@@ -80,20 +80,20 @@ Tem alguns casos que você vê que a mãe não dá atenção para o filho quando
 
 <li> E o você acha que o fato de estar tão presente no início ajudou? </li>
 
-Acho que sim. 
+Acho que sim.
 Eu ficava mais em casa, junto com vocês todo o dia. E eu não deixava vocês irem tanto na casa dos outros, mas adorava receber os amigos de vocês em casa. Então, conhecia seus amigos também. Dei bastante atenção: brincava, jogava baralho, fazia de tudo.
 
 Considerando que saí de casa muito nova (com 17 anos) e que éramos muito unidas, como foi lidar com a ausência? Sei que você é uma pessoa muito carente e que gosta de estar perto. Como lidar com esses sentimentos?
 
-“Difícil. Acho que é porque eu tinha muita confiança em você e te achava muito independente. Apesar de tudo, eu sabia que você queria ir atrás dos seus sonhos. Para mim, isso era importante.” 
+“Difícil. Acho que é porque eu tinha muita confiança em você e te achava muito independente. Apesar de tudo, eu sabia que você queria ir atrás dos seus sonhos. Para mim, isso era importante.”
 
 Sabia que você não ia fazer nada errado. Sempre confiei em você e no Leo. Uma coisa de mãe. Por exemplo, você sempre disse que queria morar fora do país. Por mais que eu sentisse falta, eu nunca iria falar não para você, porque queria te fazer bem. Se você está bem, eu estou bem. Quando via que estava sofrendo, eu sofria. Mas eu estava longe e tinha que confiar. Aos poucos, foi madurando. E você foi indo de pouquinho em pouquinho cada vez mais longe. Acostumei aos poucos, vendo menos, sem querer.
- 
-Difícil, mas você estava indo atrás dos seus sonhos. Coisa que eu não fui atrás, nunca tentei algo diferente. Você não, eu acho q eu estava me vendo em você. 
+
+Difícil, mas você estava indo atrás dos seus sonhos. Coisa que eu não fui atrás, nunca tentei algo diferente. Você não, eu acho q eu estava me vendo em você.
 
 <li> Por que você acha que tinha medo por você mas não medo por mim? </li>
 
-Tinha medo, com certeza. Mas você sempre foi uma pessoa muito decidida e independente. Sei lá, você me deu força, confiava que ia se dar bem. Não sei explicar. Não queria, mas ao mesmo tempo não queria falar não, e confiava. 
+Tinha medo, com certeza. Mas você sempre foi uma pessoa muito decidida e independente. Sei lá, você me deu força, confiava que ia se dar bem. Não sei explicar. Não queria, mas ao mesmo tempo não queria falar não, e confiava.
 
 Meu sonho hoje era vocês morarem aqui perto. Nem q fosse um pouquinho longe. Poder ir visitar a hora que eu quisesse, o dia que eu quisesse. Mas como disse, você estando feliz, também estou feliz. Leo está comigo ainda, mas se ele tiver que sair, vou fazer o que? Só queria que ele não fosse longe, porque ia ser ainda mais difícil.
 
@@ -122,15 +122,15 @@ O limite de velocidade, não sei se todo mundo sabe, é de 40 km/h e 30 m de dis
 
 <li> Quanto comum são essas ocorrências? </li>
 
-Como aqui é uma praça pequena, cerca de uns 4-5 por dia. Depende o dia. 
+Como aqui é uma praça pequena, cerca de uns 4-5 por dia. Depende o dia.
 
 <li> Alguma outra curiosidade? </li>
 
-O pedágio não aceita cartão de crédito ou de débito, apenas dinheiro ou vale-pedágio e cupons específicos. Estão querendo implementar um novo sistema de encostar um cartão e liberar o pagamento, mas ainda não sei muito a respeito. 
+O pedágio não aceita cartão de crédito ou de débito, apenas dinheiro ou vale-pedágio e cupons específicos. Estão querendo implementar um novo sistema de encostar um cartão e liberar o pagamento, mas ainda não sei muito a respeito.
 
 Muita gente passa sem dinheiro e pede se podemos fazer um boleto, ligar no 0800 para ou voltar mais tarde para acertar. A resposta é não. Ou acerta na hora ou gera uma multa. Na maioria dos casos gera multa. Se a pessoa não tem dinheiro, a pessoa pode retornar com cuidado, ajudamos ela a fazer o retorno. Ela tem/pode passar em uma cidade ou posto e pegar dinheiro e voltar. Outra opção é a pessoa empurrar a cancela e passar com o carro. E isso pode gerar um evasão. Mas, nesse caso, é com o consentimento dela. Depois que o veículo passou da cancela, precisa haver o pagamento.
 
-Muitas pessoas reclamam com quem está trabalhando. No entanto, quem está trabalhando não tem culpa. São geralmente usuários estressados, sem educação que acabaem descontando em nós, funcionários. 
+Muitas pessoas reclamam com quem está trabalhando. No entanto, quem está trabalhando não tem culpa. São geralmente usuários estressados, sem educação que acabaem descontando em nós, funcionários.
 
 Algumas empresas/praças não cobram moto, como é o caso da nossa. Antigamente, eles tinham que passar pelas cabines e serem liberadas e dava muitos problemas. Hoje em dia há um espaço na lateral só para motos.
 
@@ -144,7 +144,7 @@ Tinha uma prima que viajava muito, até queria viajar um dia mas eu achava que i
 
 Não sei, achava que nunca ia conseguir. Eu achava que tudo era o fim do mundo, mas não é né? Estou mais liberal e agora, as coisas estão mais fáceis. Você e o Leozão me ajudaram/encorajaram muito, conseguiram mostrar para mim que nada é impossível. Basta querer. O Leozinho também me dá muita força.
 
-Além do estímulo de vocês, acho que a outra razão foi o contato com as pessoas. Trabalho com diferentes pessoas, cada um tem um jeito, um estilo. Conheço todos lá no pedágio e converso com todos. Conversar com as pessoas no trabalho que tem diferentes opiniões, vai abrindo sua cabeça e mostrando que você pode fazer várias coisas. 
+Além do estímulo de vocês, acho que a outra razão foi o contato com as pessoas. Trabalho com diferentes pessoas, cada um tem um jeito, um estilo. Conheço todos lá no pedágio e converso com todos. Conversar com as pessoas no trabalho que tem diferentes opiniões, vai abrindo sua cabeça e mostrando que você pode fazer várias coisas.
 
 <li> E você está gostando de viajar? </li>
 
@@ -154,39 +154,39 @@ Eu acho que mudei muito. Acho que tinha a cabeça muito fechada e que tinha que 
 
 <li> Você também foi atrás de outros sonhos, como fazer aula de natação, algo que sempre quis aprender mas nunca fez nada à respeito antes. O que você acha que mudou e a fez começar algo novo? </li>
 
-Modo de pensar. 
+Modo de pensar.
 
-Tinha muito medo de começar algo novo. Chegar sozinha em um ambiente novo, não tinha coragem. No caso da natação, eu fui com uma amiga. Depois ela parou e eu continuei. Foi um ótimo empurrãozinho. Mas hoje não, se eu tiver que ir sozinha, eu vou. 
+Tinha muito medo de começar algo novo. Chegar sozinha em um ambiente novo, não tinha coragem. No caso da natação, eu fui com uma amiga. Depois ela parou e eu continuei. Foi um ótimo empurrãozinho. Mas hoje não, se eu tiver que ir sozinha, eu vou.
 
 E isso é algo marcante na minha vida. Por exemplo, eu nunca quis ir fazer faculdade, porque eu tinha medo de ir sozinha, de conversar, de conhecer um lugar novo. Sempre fui muito tímida e medrosa. Muito retraída. Eu ainda sou ,meio assim, mas não tanto quanto eu era.
 
 <li> Então você acha que está fazendo mais coisa por você? </li>
 
-Com certeza. 
+Com certeza.
 
 <li> Quais são suas prioridades do momento? </li>
 
-Eu acho que é minha família. Estar perto de todo mundo. Viajar, lógico. Fazer mais coisas por mim. Mas, principalmente, ter vocês perto de mim (mesmo com a distância física), de conversar, de contar as coisas.Trocar carinhos, principalmente agora com a minha netinha né?  
+Eu acho que é minha família. Estar perto de todo mundo. Viajar, lógico. Fazer mais coisas por mim. Mas, principalmente, ter vocês perto de mim (mesmo com a distância física), de conversar, de contar as coisas.Trocar carinhos, principalmente agora com a minha netinha né?
 
 **Para fechar**
 
 “Já chorei...você fica fazendo eu chorar, porque é muita lembrança. Só de falar de vocês, eu fico emocionada.”
 
-Uma coisa que esqueci de falar, fiquei vários anos sem trabalhar e cuidando de vocês. Na mesma semana em que entrei no pedágio também me chamaram para dar aula (tinha magistério). Eu não tinha nada e, de repente, tinha 2 opções. Fiquei 15 dias com os 2 trabalhos, mas sabia que tinha que decidir por um, por conta dos horários e da demanda. O pedágio era algo novo, tinha gostado da experiência e não teria trabalho extra para casa, diferente se eu escolhesse continuar com as aulas. Foi uma decisão difícil na época. Não sei se hoje eu me arrependo ou não. Mas acho q não.  
+Uma coisa que esqueci de falar, fiquei vários anos sem trabalhar e cuidando de vocês. Na mesma semana em que entrei no pedágio também me chamaram para dar aula (tinha magistério). Eu não tinha nada e, de repente, tinha 2 opções. Fiquei 15 dias com os 2 trabalhos, mas sabia que tinha que decidir por um, por conta dos horários e da demanda. O pedágio era algo novo, tinha gostado da experiência e não teria trabalho extra para casa, diferente se eu escolhesse continuar com as aulas. Foi uma decisão difícil na época. Não sei se hoje eu me arrependo ou não. Mas acho q não.
 
 <li> Você gostou da entrevista ou ficou muito tensa? </li>
 
 Gostei, sabe que quando eu começo a falar, eu não paro.
 
 “Mas eu acho q eu não sou tão interessante, tem gente mais interessante…”
- 
+
 Esse é justamente o ponto desse blog, mostrar que todo mundo é interessante e tem algo para contar.
 
 “Foi legal! Achei q ia ser pior.”
 </ol>
 
 
-*Por que não se inspirar e entrevistar sua própria mãe? Você sabe como foi/é a maternidade para ela? Sabe o que ela faz? Sabe o que ela pensa hoje em dia?* 
+*Por que não se inspirar e entrevistar sua própria mãe? Você sabe como foi/é a maternidade para ela? Sabe o que ela faz? Sabe o que ela pensa hoje em dia?*
 
 *O que você sabia sobre pedágios? Já tinha parado para pensar?*
 
