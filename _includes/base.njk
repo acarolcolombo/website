@@ -33,11 +33,9 @@
         <a href="/">{{ info.site_name }}</a>
       </div>
       <div class="menu">
-        <ul>
           {% for name, url in info.site_menu %}
-            <li><a href="{{ url }}">{{ name }}</a></li>
+            <span><a href="{{ url }}">{{ name }}</a></span>
           {% endfor %}
-        </ul>
       </div>
     </div>
   {% endblock %}
@@ -48,12 +46,16 @@
 
   <footer>
   {% block footer %}
-    <p>
-      Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
-    </p>
-    <p>
-      Source code: <a target="_blank" href="https://github.com/acarolcolombo/caroldoscopio">Github</a>
-    </p>
+    <div  class="container">
+      <p>
+        © {{ build.year }} {{ info.site_author }}
+        |
+        Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
+        |
+        Source code
+        <a target="_blank" href="https://github.com/acarolcolombo/caroldoscopio">on Github</a>
+      </p>
+    </div>
   {% endblock %}
   </footer>
 

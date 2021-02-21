@@ -39,30 +39,30 @@ header a {
 }
 
 .navigation {
+    line-height: 20pt;
     margin: 0;
     padding: 30px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .brand {
-    flex: 1;
-}
-
-.menu {
-    flex: 5;
-    text-align: right;
-    word-spacing: 15px;
-}
-
-.menu > ul {
-    list-style: none;
-    padding: 0;
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding: 20px;
     margin: 0;
 }
 
-.menu > ul > li {
-    display: inline;
+.menu {
+    flex-grow: 0;
+    flex-shrink: 1;
+    padding: 20px;
+    margin: 0;
+}
+
+.menu > span {
+    padding-right: 10px;
 }
 
 /* To wrap all content in a page */
@@ -70,5 +70,5 @@ header a {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding: 60px 60px;
+    padding: 60px 20px;
 }
