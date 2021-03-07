@@ -1,10 +1,10 @@
 {
-    "site_name": "Caroldoscópio",
+    "site_name": "Ana Caroline Colombo",
     "site_author": "Ana Caroline Colombo",
     "keywords": "bla,meh,yeah",
     "site_menu": {
         "Home" : "/",
-        "About": "/about",
-        "Entrevistas": "/posts"
+        "About": "/#about",
+        "Contact": "/#contact"
     }
 }
