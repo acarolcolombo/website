@@ -18,6 +18,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/assets/fontawesome/css/all.css">
 
   <!-- Site favicon -->
   <link rel="shortcut icon" href="/assets/favicon.png">
@@ -51,11 +52,12 @@
     <div  class="container">
       <p>
         © {{ build.year }} {{ info.site_author }}
-        • 
+        •
         Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
-        • 
+        •
         Source code
         <a target="_blank" href="https://github.com/{{ info.site_source }}">on Github</a>
+        <i class="fab fa-github"></i>
       </p>
     </div>
   {% endblock %}
