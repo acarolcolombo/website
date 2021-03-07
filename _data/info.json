@@ -1,6 +1,7 @@
 {
     "site_name": "Ana Caroline Colombo",
     "site_author": "Ana Caroline Colombo",
+    "site_source": "acarolcolombo/caroldoscopio",
     "keywords": "bla,meh,yeah",
     "site_menu": {
         "Home" : "/",

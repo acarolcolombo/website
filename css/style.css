@@ -21,7 +21,17 @@ h2 {
 }
 
 footer {
+    width: 100%;
+    /*background-color: #111111;*/
     color: #666666;
+    padding: 60px 0;
+    margin: 60px 0 0 0;
+    text-align: center;
+    /* To stick the footer to the bottom of the page */
+    position: absolute;
+    bottom: 0;
+    /* Set the fixed height of the footer here */
+    min-height: 50px;
 }
 
 header {
@@ -30,7 +40,7 @@ header {
     width: 100%;
     min-height: 600px;
     background-size: cover;
-    margin: 0px;
+    margin: 0px 0px 60px 0px;
     padding: 0px;
 }
 
@@ -42,7 +52,7 @@ header a {
 .navigation {
     line-height: 20pt;
     margin: 0;
-    padding: 30px;
+    padding: 30px 0px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -51,14 +61,14 @@ header a {
 .brand {
     flex-grow: 1;
     flex-shrink: 0;
-    padding: 20px;
+    padding: 0 20px 0 0;
     margin: 0;
 }
 
 .menu {
     flex-grow: 0;
     flex-shrink: 1;
-    padding: 20px;
+    padding: 0;
     margin: 0;
 }
 
@@ -71,5 +81,5 @@ header a {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding: 60px 20px;
+    padding: 0px 20px;
 }

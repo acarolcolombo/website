@@ -28,14 +28,16 @@
 
   <header style="background-image: url(/{{ banner }});" >
   {% block header %}
-    <div class="navigation">
-      <div class="brand">
-        <a href="/">{{ info.site_name }}</a>
-      </div>
-      <div class="menu">
-          {% for name, url in info.site_menu %}
-            <span><a href="{{ url }}">{{ name }}</a></span>
-          {% endfor %}
+    <div  class="container">
+      <div class="navigation">
+        <div class="brand">
+          <a href="/">{{ info.site_name }}</a>
+        </div>
+        <div class="menu">
+            {% for name, url in info.site_menu %}
+              <span><a href="{{ url }}">{{ name }}</a></span>
+            {% endfor %}
+        </div>
       </div>
     </div>
   {% endblock %}
@@ -49,11 +51,11 @@
     <div  class="container">
       <p>
         © {{ build.year }} {{ info.site_author }}
-        |
+        • 
         Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
-        |
+        • 
         Source code
-        <a target="_blank" href="https://github.com/acarolcolombo/caroldoscopio">on Github</a>
+        <a target="_blank" href="https://github.com/{{ info.site_source }}">on Github</a>
       </p>
     </div>
   {% endblock %}
