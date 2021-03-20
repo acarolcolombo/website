@@ -6,7 +6,7 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12pt;
+    font-size: 14pt;
     color: #333333;
     /* Margin bottom by footer height with a little room to accomodate small screens */
     margin: 0 0 400px 0;
@@ -17,7 +17,15 @@ h1 {
 }
 
 h2 {
-    font-size: 14pt;
+    font-size: 16pt;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 footer {
@@ -35,7 +43,7 @@ footer {
 }
 
 header {
-    font-size: 12pt;
+    font-size: 14pt;
     color: #333333;
     width: 100%;
     min-height: 600px;
@@ -83,6 +91,7 @@ header a {
     margin-right: auto;
     padding: 0px 40px;
 }
+
 
 .fa-ul {
     margin-left: 1.6em !important;

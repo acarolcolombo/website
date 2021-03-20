@@ -31,6 +31,10 @@ Recently, I am volunteering in a museum. I am also a STEM Ambassador.
 <a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
 </li>
 <li>
+<i class="fa-li fab fa-github" aria-hidden="true"></i> 
+<a href="https://github.com/acarolcolombo">@acarolcolombo</a>
+</li>
+<li>
 <i class="fa-li fab fa-twitter" aria-hidden="true"></i> 
 <a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
 </li>
