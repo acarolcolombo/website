@@ -78,8 +78,21 @@ header a {
 
 /* To wrap all content in a page */
 .container {
-    max-width: 1200px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0px 20px;
+    padding: 0px 40px;
+}
+
+@media (max-width: 500px) {
+    .navigation {
+        display: block;
+        text-align: center;
+    }
+    .brand {
+        padding: 0 0 10px 0;
+    }
+    .menu > span {
+        padding: 0 10px;
+    }
 }
