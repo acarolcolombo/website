@@ -7,14 +7,31 @@ banner: assets/banners/plant-with-web.jpg
 
 <h2 id="about">About me</h2>
 
-Meu nome: Ana Caroline Colombo. Mas talvez você me conheça por Carol, Nani, Paper, ou Ana. Se ainda não me conhece, trago uma descrição breve.
+A constant throughout my career is the belief that knowledge should be shared and spread.
 
-Aprecio e valorizo relacionamentos e emoções. Adoro a simplicidade. Gosto de estudar, espalhar conhecimento e estar em contato com a natureza. Sou bióloga e professora. Dona de casa e mãe no momento. Uma brasileira em Liverpool, Inglaterra. Já morei em 7 cidades em 3 países diferentes. Conheci muita gente pelo caminho e sou o que sou por todos esses contatos e trocas de experiências.
+I have worked in a biomedical research lab, in a health insurance company, and in a botanical garden. 
 
-Criei o blog com o intuito de dar voz as histórias de pessoas que cruzei no caminho ou que ainda vou cruzar. Criei o blog para aprender e entender como um blog funciona. Criei o blog para me entender melhor.
+I have been exploring different fields of biology: 
+neuroscience, behavior, microbiology, biochemistry, and botany. 
 
-Talvez nem tudo aqui te traga percepções ou interesse, mas definitivamente, te trará mais perto de alguém ou de você mesmo.
+I have had teaching experience from elementary school to undergraduate level. 
+
+Recently, I am volunteering in a museum. I am also a STEM Ambassador.
 
 
 <h2 id="contact">Contact</h2>
 
+<ul class="fa-ul">
+<li>
+<i class="fa-li fas fa-envelope"></i> 
+<a href="mailto:contact@acarolcolombo.com">contact@acarolcolombo.com</a>
+</li>
+<li>
+<i class="fa-li fab fa-linkedin" aria-hidden="true"></i> 
+<a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
+</li>
+<li>
+<i class="fa-li fab fa-twitter" aria-hidden="true"></i> 
+<a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
+</li>
+</ul>

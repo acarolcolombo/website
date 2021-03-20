@@ -84,6 +84,11 @@ header a {
     padding: 0px 40px;
 }
 
+.fa-ul {
+    margin-left: 1.6em !important;
+    line-height: 1.7em;
+}
+
 @media (max-width: 500px) {
     .navigation {
         display: block;
