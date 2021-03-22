@@ -7,16 +7,18 @@ banner: assets/banners/plant-with-web.jpg
 
 <h2 id="about">About me</h2>
 
-A constant throughout my career is the belief that knowledge should be shared and spread.
-
-I have worked in a biomedical research lab, in a health insurance company, and in a botanical garden. 
+I am a Brazilian biologist and educator living in the United Kingdom.
 
 I have been exploring different fields of biology: 
-neuroscience, behavior, microbiology, biochemistry, and botany. 
+neuroscience, behavior, microbiology, and botany.
+
+I have worked in a biomedical research lab, in a health insurance company, and in a botanical garden.  
 
 I have had teaching experience from elementary school to undergraduate level. 
 
-Recently, I am volunteering in a museum. I am also a STEM Ambassador.
+Recently, I am volunteering in the aquarium of a museum. I am also a STEM Ambassador.
+
+
 
 
 <h2 id="contact">Contact</h2>
