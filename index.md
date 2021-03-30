@@ -18,7 +18,7 @@ I have had teaching experience from elementary school to undergraduate level.
 
 Recently, I am volunteering in the aquarium of a museum. I am also a STEM Ambassador.
 
-
+If you would like to know more, please have a look at my CV here:  https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf 
 
 
 <h2 id="contact">Contact</h2>
