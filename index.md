@@ -9,16 +9,21 @@ banner: assets/banners/plant-with-web.jpg
 
 I am a Brazilian biologist and educator living in the United Kingdom.
 
-I have been exploring different fields of biology: 
-neuroscience, behavior, microbiology, and botany.
+Exploring different subjects and finding a connection among them excites me. Trying to keep my eyes and mind open to opportunities have given me the chance to explore distinct areas in biology such as neuroscience, behaviour, microbiology, and botany. Also, inspired my wishes to learn more about quantitative biology and programming, which is what I have been trying to focus on lately.
 
-I have worked in a biomedical research lab, in a health insurance company, and in a botanical garden.  
+Approaching the learning and development process through teaching internships, scientific communication and outreach, conservationists efforts, and educational resources layouts have changed my perspective on education at different levels.
 
-I have had teaching experience from elementary school to undergraduate level. 
+The chance to live and work in other countries besides my own have allowed me to experience cultural and political ideas whose consequences goes beyond respect, admiration, and acceptance, but a certainty of the uniqueness of each story.
 
-Recently, I am volunteering in the aquarium of a museum. I am also a STEM Ambassador.
+Connection with distinct people and ideas makes our own story more meaningful. I have been trying to nurture and value these connections throughout my life.
 
-If you would like to know more, please have a look at my CV here: <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">accolombo-cv.pdf</a>
+Although many of my hobbies are nature-related such as hiking and camping, I enjoy a great meal (cooking and eating it), an engaging conversation, and a lovely dance. 
+
+Becoming a mother have taught me a lot about myself and my priorities. I’ve never been better to organise my time and turn my ideas into actions.
+
+This website is a reflection of these experiences and I will be building it slowly (bear with me). 
+
+If you would like to know a bit more about my career, please have a look at my CV here: <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">accolombo-cv.pdf</a>
 
 <h2 id="contact">Contact</h2>
 
