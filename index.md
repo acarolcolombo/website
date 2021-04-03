@@ -14,7 +14,7 @@ Being open to opportunities has given me the chance to explore distinct areas of
 
 The chance to live and work abroad have allowed me to experience cultural and political ideas the consequences of which go beyond respect, admiration, and acceptance. Bonds with distinct people and ways of thinking makes our own story more meaningful. I have been trying to nurture and value these relationships throughout my life.
 
-Although many of my hobbies are nature-related such as hiking and camping, I enjoy cooking and eating a great meal, an engaging conversation, and a lovely dance. 
+Although many of my hobbies are nature-related such as hiking and camping, I enjoy a great meal, an engaging conversation, and a lovely dance. 
 
 Becoming a mother have taught me a lot about myself and my priorities. I have never been better at organising my time and turning my ideas into actions.
 
