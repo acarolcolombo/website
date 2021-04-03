@@ -5,23 +5,20 @@ banner: assets/banners/plant-with-web.jpg
 ---
 
 
-<h2 id="about">About me</h2>
+<h2 id="about">About</h2>
 
-I am a Brazilian biologist and educator living in the United Kingdom.
+Hi, I'm Ana Caroline Colombo, Brazilian, biologist, educator, and proud mother living in the United Kingdom.
 
-Exploring different subjects and finding a connection among them excites me. Trying to keep my eyes and mind open to opportunities have given me the chance to explore distinct areas in biology such as neuroscience, behaviour, microbiology, and botany. Also, inspired my wishes to learn more about quantitative biology and programming, which is what I have been trying to focus on lately.
+Exploring different subjects and finding a connection among them excites me. 
+Being open to opportunities has given me the chance to explore distinct areas of biology such as neuroscience, behaviour, microbiology, and botany. Also, inspired me to learn more about quantitative biology and programming, which is what I have been trying to focus on lately. Approaching the learning and development process through teaching internships, scientific communication and outreach, conservation efforts, and the design of educational resources have changed my perspective on education at all levels.
 
-Approaching the learning and development process through teaching internships, scientific communication and outreach, conservationists efforts, and educational resources layouts have changed my perspective on education at different levels.
+The chance to live and work abroad have allowed me to experience cultural and political ideas the consequences of which go beyond respect, admiration, and acceptance. Bonds with distinct people and ways of thinking makes our own story more meaningful. I have been trying to nurture and value these relationships throughout my life.
 
-The chance to live and work in other countries besides my own have allowed me to experience cultural and political ideas whose consequences goes beyond respect, admiration, and acceptance, but a certainty of the uniqueness of each story.
+Although many of my hobbies are nature-related such as hiking and camping, I enjoy cooking and eating a great meal, an engaging conversation, and a lovely dance. 
 
-Connection with distinct people and ideas makes our own story more meaningful. I have been trying to nurture and value these connections throughout my life.
+Becoming a mother have taught me a lot about myself and my priorities. I have never been better at organising my time and turning my ideas into actions.
 
-Although many of my hobbies are nature-related such as hiking and camping, I enjoy a great meal (cooking and eating it), an engaging conversation, and a lovely dance. 
-
-Becoming a mother have taught me a lot about myself and my priorities. I’ve never been better to organise my time and turn my ideas into actions.
-
-This website is a reflection of these experiences and I will be building it slowly (bear with me). 
+This website is a reflection of these experiences and I will be building it slowly. Bear with me. 
 
 If you would like to know a bit more about my career, please have a look at my CV here: <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">accolombo-cv.pdf</a>
 
