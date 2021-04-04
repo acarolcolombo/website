@@ -7,7 +7,7 @@ banner: assets/banners/plant-with-web.jpg
 
 <h2 id="about">Sobre</h2>
 
-Oi, meu nome é Ana Caroline Colombo, sou brasileira, bióloga, educadora, e mãe cheia de orgulho morando no Reino Unido.
+Oi, meu nome é Ana Caroline Colombo, sou brasileira, bióloga, educadora, e mãe cheia de orgulho. Atualmente, moro no Reino Unido.
 
 Explorar diferentes temas e encontrar uma conexão entre eles me motiva. Estar aberta a oportunidades me proporcionou explorar áreas distintas da biologia tais como: neurociência, comportamento, microbiologia, e botânica. Além disso, tem me inspirado a aprender mais sobre biologia quantitativa e programação nas quais estou tentando focar ultimamente. Abordar o processo de aprendizagem e desenvolvimento através de estágios em ensino, comunicação e divulgação científica, projetos de conservação, e design de recursos educacionais tem mudado minha perspectiva em todos os níveis de ensino.
 
