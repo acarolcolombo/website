@@ -46,7 +46,8 @@ header {
     font-size: 14pt;
     color: #333333;
     width: 100%;
-    min-height: 600px;
+    min-height: 550px;
+    background-position: center;
     background-size: cover;
     margin: 0px 0px 60px 0px;
     padding: 0px;
@@ -108,5 +109,8 @@ header a {
     }
     .menu > span {
         padding: 0 10px;
+    }
+    header {
+        min-height: 400px;
     }
 }
