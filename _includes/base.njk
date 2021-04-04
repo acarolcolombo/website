@@ -27,7 +27,7 @@
 
 <body>
 
-  <header style="background-image: linear-gradient(to top, #00000000, #000000cc), url(/{{ banner }}) ;" >
+  <header style="background-image: linear-gradient(to top, #00000000, #000000ff), url(/{{ banner }}) ;" >
   {% block header %}
     <div  class="container">
       <div class="navigation">
@@ -36,6 +36,11 @@
         </div>
         <div class="menu">
             {% for name, url in info.site_menu %}
+              <span><a href="{{ url }}">{{ name }}</a></span>
+            {% endfor %}
+        </div>
+        <div class="language_menu">
+            {% for name, url in info.site_languages %}
               <span><a href="{{ url }}">{{ name }}</a></span>
             {% endfor %}
         </div>

@@ -6,7 +6,9 @@
     "site_menu": {
         "Home" : "/",
         "About": "/#about",
-        "Contact": "/#contact",
+        "Contact": "/#contact"
+    },
+    "site_languages":{
         "🇬🇧": "/",
         "🇧🇷": "/pt"
     }

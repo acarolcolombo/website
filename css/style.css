@@ -85,6 +85,17 @@ header a {
     padding-right: 10px;
 }
 
+.language_menu {
+    flex-grow: 0;
+    flex-shrink: 1;
+    padding: 0;
+    margin: 0;
+}
+
+.language_menu > span {
+    padding-right: 6px;
+}
+
 /* To wrap all content in a page */
 .container {
     max-width: 1000px;
@@ -107,8 +118,16 @@ header a {
     .brand {
         padding: 0 0 10px 0;
     }
+
+    .menu {
+        padding: 0 0 10px 0;
+    }
+
     .menu > span {
         padding: 0 10px;
+    }
+    .language_menu > span {
+        padding: 0 6px;
     }
     header {
         min-height: 400px;
