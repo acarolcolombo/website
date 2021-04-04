@@ -6,6 +6,8 @@
     "site_menu": {
         "Home" : "/",
         "About": "/#about",
-        "Contact": "/#contact"
+        "Contact": "/#contact",
+        "🇬🇧": "/",
+        "🇧🇷": "/pt"
     }
 }

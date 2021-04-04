@@ -99,7 +99,7 @@ header a {
     line-height: 1.7em;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     .navigation {
         display: block;
         text-align: center;
