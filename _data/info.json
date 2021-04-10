@@ -13,9 +13,9 @@
             "Contact": "/#contact"
         },
         "pt": {
-            "Home" : "/",
-            "Sobre": "/#about",
-            "Contato": "/#contact"
+            "Home" : "/pt",
+            "Sobre": "/pt/#about",
+            "Contato": "/pt/#contact"
         }
     },
     "site_language_menu": {
