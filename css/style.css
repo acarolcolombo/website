@@ -28,6 +28,10 @@ a:hover {
     text-decoration: underline;
 }
 
+img {
+  width: 100%;
+}
+
 footer {
     width: 100%;
     /*background-color: #111111;*/
@@ -40,6 +44,7 @@ footer {
     bottom: 0;
     /* Set the fixed height of the footer here */
     min-height: 50px;
+    line-height: 22pt;
 }
 
 header {
@@ -104,6 +109,23 @@ header a {
     padding: 0px 40px;
 }
 
+/* Use it in a div to wrap flexbox content */
+.flex-container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#about-text {
+    flex: 2;
+    padding-right: 30px;
+}
+
+#about-image {
+    flex: 1;
+}
 
 .fa-ul {
     margin-left: 1.6em !important;
@@ -118,11 +140,9 @@ header a {
     .brand {
         padding: 0 0 10px 0;
     }
-
     .menu {
         padding: 0 0 10px 0;
     }
-
     .menu > span {
         padding: 0 10px;
     }
@@ -131,5 +151,14 @@ header a {
     }
     header {
         min-height: 400px;
+    }
+    .flex-container {
+        display: block;
+    }
+    #about-text {
+        padding: 0;
+    }
+    #about-image {
+        padding: 20px 0;
     }
 }

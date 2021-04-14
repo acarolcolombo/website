@@ -1,15 +1,26 @@
 {
-    "site_name": "Ana Caroline Colombo",
+    "site_name": {
+        "en": "Ana Caroline Colombo",
+        "pt": "Ana Caroline Colombo"
+    },
     "site_author": "Ana Caroline Colombo",
     "site_source": "acarolcolombo/caroldoscopio",
     "keywords": "bla,meh,yeah",
     "site_menu": {
-        "Home" : "/",
-        "About": "/#about",
-        "Contact": "/#contact"
+        "en": {
+            "Home" : "/",
+            "About": "/#about",
+            "Contact": "/#contact"
+        },
+        "pt": {
+            "Home" : "/pt",
+            "Sobre": "/pt/#about",
+            "Contato": "/pt/#contact"
+        }
     },
-    "site_languages":{
+    "site_language_menu": {
         "🇬🇧": "/",
         "🇧🇷": "/pt"
-    }
+    },
+    "language": "en"
 }

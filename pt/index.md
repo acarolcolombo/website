@@ -4,8 +4,10 @@ title: Home
 banner: assets/banners/plant-with-web.jpg
 ---
 
-
 <h2 id="about">Sobre</h2>
+
+<div class="flex-container">
+<div id="about-text">
 
 Oi, meu nome é Ana Caroline Colombo, sou brasileira, bióloga, educadora, e mãe cheia de orgulho. Atualmente, moro no Reino Unido.
 
@@ -21,23 +23,29 @@ Esse site é um reflexo dessas experiências e eu irei construí-lo aos poucos.
 
 Se você quiser saber um pouco mais sobre minha carreira, acesse meu CV aqui: <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">accolombo-cv.pdf</a>
 
+</div>
+<div id="about-image">
+<img title="Photo of me looking up at fall leaves in a park." src="/assets/about-image.jpg">
+</div>
+</div>
+
 <h2 id="contact">Contato</h2>
 
 <ul class="fa-ul">
 <li>
-<i class="fa-li fas fa-envelope"></i> 
+<i class="fa-li fas fa-envelope"></i>
 <a href="mailto:contact@acarolcolombo.com">contact@acarolcolombo.com</a>
 </li>
 <li>
-<i class="fa-li fab fa-linkedin" aria-hidden="true"></i> 
+<i class="fa-li fab fa-linkedin" aria-hidden="true"></i>
 <a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
 </li>
 <li>
-<i class="fa-li fab fa-github" aria-hidden="true"></i> 
+<i class="fa-li fab fa-github" aria-hidden="true"></i>
 <a href="https://github.com/acarolcolombo">@acarolcolombo</a>
 </li>
 <li>
-<i class="fa-li fab fa-twitter" aria-hidden="true"></i> 
+<i class="fa-li fab fa-twitter" aria-hidden="true"></i>
 <a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
 </li>
 </ul>

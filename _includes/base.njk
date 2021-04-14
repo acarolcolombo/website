@@ -1,5 +1,6 @@
+{%- set language = language | default(info.language) -%}
 <!doctype html>
-<html lang="en">
+<html lang="{{ language }}">
 
 <head>
 {% block head %}
@@ -10,11 +11,7 @@
   <meta name="author" content="{{ info.site_author }}"/>
   <meta name="keywords" content="{{ info.keywords }}"/>
 
-  {% if page.url == "/" %}
-    <title>{{ info.site_name }}</title>
-  {% else %}
-    <title>{{ title | safe }} | {{ info.site_name }}</title>
-  {% endif %}
+  <title>{{ info.site_name[language] }}</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/css/style.css">
@@ -32,15 +29,15 @@
     <div  class="container">
       <div class="navigation">
         <div class="brand">
-          <a href="/">{{ info.site_name }}</a>
+          <a href="/">{{ info.site_name[language] }}</a>
         </div>
         <div class="menu">
-            {% for name, url in info.site_menu %}
+            {% for name, url in info.site_menu[language] %}
               <span><a href="{{ url }}">{{ name }}</a></span>
             {% endfor %}
         </div>
         <div class="language_menu">
-            {% for name, url in info.site_languages %}
+            {% for name, url in info.site_language_menu %}
               <span><a href="{{ url }}">{{ name }}</a></span>
             {% endfor %}
         </div>
