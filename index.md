@@ -22,7 +22,7 @@ Becoming a mother has taught me a lot about myself and my priorities. I have nev
 
 This website is a reflection of these experiences and I will be building it slowly. Bear with me.
 
-If you would like to know a bit more about my career, please have a look at my CV here: <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">accolombo-cv.pdf</a>
+If you would like to know a bit more about my career, please have a look at <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">my CV.</a>
 
 </div>
 <div id="about-image">
