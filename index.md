@@ -26,7 +26,7 @@ If you would like to know a bit more about my career, please have a look at <a h
 
 </div>
 <div id="about-image">
-<img title="Photo of me looking up at fall leaves in a park." src="/assets/about-image.jpg">
+<img title="Photo of me looking up at fall leaves in a park." src="/assets/about-image-b&w-yellow.png">
 </div>
 </div>
 

@@ -25,7 +25,7 @@ Se você quiser saber um pouco mais sobre minha carreira, acesse <a href="https:
 
 </div>
 <div id="about-image">
-<img title="Photo of me looking up at fall leaves in a park." src="/assets/about-image.jpg">
+<img title="Uma foto minha olhando para as folhas amarelas de uma árvore em um parque no outono." src="/assets/about-image-b&w-yellow.png">
 </div>
 </div>
 
