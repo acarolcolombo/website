@@ -1,4 +1,4 @@
-# My own website: Caroldoscopio. 
+# My personal website
 
 ## Created with Eleventy and in collaboration with @leouieda.
 
