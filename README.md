@@ -1,8 +1,8 @@
-# My own website: Caroldoscopio. 
+# My personal website
 
 ## Created with Eleventy and in collaboration with @leouieda.
 
-Website: https://acarolcolombo.github.io/caroldoscopio/
+Website: https://www.acarolcolombo.com
 
 Eleventy: https://www.11ty.dev/
 
