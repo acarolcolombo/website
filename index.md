@@ -32,6 +32,6 @@ If you would like to know a bit more about my career, please have a look at <a h
 
 <h2 id="stories">Stories</h2>
 
-Stories can change perspectives, economies, and beliefs. The same story can be told by different people in distinct contexts. Not only each storyteller or each context can modify the shape of the story, but also each listener or reader can interpret it uniquely based on their own background and previous knowledge.
+Stories can change perspectives, economies, and beliefs. Each storyteller can modify the shape of a story, and each listener can interpret it based on their own unique background.
 
-This is the beauty of a story. As in a book, it can always be there, simple and pure, however full of meanings. Or like in the folklore, it can be changing all the time, however maintinaing the its same essence.
+This is the beauty of a story. It can always be there, simple and pure, unchanging, however full of meaning, as in a book. Or like in folklore, it can be in constant change, however maintaining the same essence.
