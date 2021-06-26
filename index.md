@@ -30,6 +30,12 @@ If you would like to know a bit more about my career, please have a look at <a h
 </div>
 </div>
 
+<h2 id="about">Journal</h2>
+
+Hi, I'm Ana Caroline Colombo, Brazilian, biologist, educator, and proud mother living in the Un
+
+- [Once More](/stories/once-more)
+
 <h2 id="contact">Contact</h2>
 
 <ul class="fa-ul">

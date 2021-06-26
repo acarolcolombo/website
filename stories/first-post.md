@@ -1,5 +1,5 @@
 ---
-layout: post.njk
+layout: stories.njk
 title: "Entrevistando minha mãe: o que você sabe sobre a sua?"
 date: 2020-07-26
 tags: posts
@@ -8,18 +8,18 @@ tags: posts
 Na primeira entrevista do blog queria trazer um pouco do desconhecido conhecido. Uma pitada do que esse projeto se baseia: simplicidade, autenticidade, empatia e valorização. E por que não conversar com a pessoa que mudou a própria vida para criar vida, a pessoa que é tão próxima mas que às vezes não conhecemos tanto quanto poderíamos? Por que não começar pela minha mãe? E a escolha vem ainda mais carregada de significado porque estou grávida. Isso me lembra muito do trecho da música:
 
 > Você me diz que seus pais não o entendem
-<br>
+> <br>
 > Mas você não entende seus pais
-<br>
+> <br>
 > Você culpa seus pais por tudo, isso é absurdo
-<br>
+> <br>
 > São crianças como você
-<br>
+> <br>
 > O que você vai ser
-<br>
+> <br>
 > Quando você crescer?
-<br>
-**Pais e Filhos - Legião Urbana**
+> <br>
+> **Pais e Filhos - Legião Urbana**
 
 Nome: Cristiane
 <br>
@@ -28,7 +28,6 @@ Idade: 53
 Profissão: Agente de pedágio
 <br>
 Filhos: 2 (Carol, 31 e Leo, 28)
-
 
 ## **A maternidade**
 
@@ -64,7 +63,7 @@ Quando estava grávida do Leo, eu te explicava, falava que estava grávida, fala
 
 Eu conversava com você na minha barriga e quando nasceu, como se fosse um adulto (não falava coisas de adultos), mas tudo bem natural. Eu sempre te tratava como uma pessoinha mesmo. E com o Leo também. E como a gente sempre conversou, você sempre me contou as coisas. Você chegava da escola e contava tudo: da hora que entrava até a hora que saía. Contava o que seu amigo falou, o que a professora falou, etc. Eu só perguntava o que tinha acontecido no seu dia e você começava a falar e não parava. Leo demora, às vezes, mas ele conta. Quando ele fala: ‘mãe você não sabe..’, eu já gelo porque sei que vem uma bomba.
 
-Eu sempre falava a verdade para vocês dois. Vocês falavam que a gente tinha dinheiro. E eu falava: ‘não tenho não.’ E vocês respondiam: ‘mas você tem cheque.’ E eu explicava que cheque não era dinheiro. Além disso, vocês sempre estudaram em escola particular, com gente rica. E nem por isso vcs era. Sempre falei a verdade: ‘vocês estão aí por causa do seu avô, com o objetivo de terem uma vida melhor.  A gente não tem muito dinheiro, mas isso não é o importante.’ Sempre mostrando a verdade dos dois lados. Você sempre ia em festas mais chiques, mas você nunca teve uma. Você nunca teve inveja ou pode ser que até sentiram, mas eu nunca percebi isso.
+Eu sempre falava a verdade para vocês dois. Vocês falavam que a gente tinha dinheiro. E eu falava: ‘não tenho não.’ E vocês respondiam: ‘mas você tem cheque.’ E eu explicava que cheque não era dinheiro. Além disso, vocês sempre estudaram em escola particular, com gente rica. E nem por isso vcs era. Sempre falei a verdade: ‘vocês estão aí por causa do seu avô, com o objetivo de terem uma vida melhor. A gente não tem muito dinheiro, mas isso não é o importante.’ Sempre mostrando a verdade dos dois lados. Você sempre ia em festas mais chiques, mas você nunca teve uma. Você nunca teve inveja ou pode ser que até sentiram, mas eu nunca percebi isso.
 
 Eu também nunca aceitei mentira. E sempre falava que a coisa que eu mais detestava era mentira. Nem q fosse pra eu ficar brava, eu queria a verdade.
 
@@ -101,7 +100,6 @@ Mas você pode nos visitar…
 
 Mas não tão fácil quanto se fosse no Brasil.
 
-
 **A profissão**
 
 Agente de pedágio. No pedágio desde que abriu. Completando 21 anos.
@@ -118,7 +116,7 @@ Como faz muito tempo que estou lá, eu sei fazer praticamente quase tudo ali, me
 
 <li> E o que você acha que as pessoas teriam curiosidade em saber sobre o pedágio? Por exemplo, uma vez você comentou comigo que as pessoas passam correndo e batem na catraca. Isso é mesmo comum? </li>
 
-O limite de velocidade, não sei se todo mundo sabe, é de 40 km/h e 30 m de distância do outro veículo. Se a pessoa passar correndo, vai bater na cancela. Ou seja, não vai dar tempo da câmera ler a placa e abrir a cancela. Às vezes, as pessoas esquecem ou estão desligadas, vão na cabine manual (onde as pessoas coletam o dinheiro) em vez de passar na VI (abertura automática) e passam direto. E a cancela não abre. Outro exemplo, é quando o sistema do Sem Parar está bloqueado por problema ou falta de pagamento. Assim, ao tentar passar pela catraca na VI, ela não abrirá.  Tem gente que pára, volta e faz o pagamento direitinho. No entanto, há outras pessoas que vão embora. Tem gente que faz de propósito e passa correndo atrás de outro carro - ‘passa no vácuo’, e dá evasão de pedágio. Se conseguirmos ver a placa, vai gerar uma multa, uma infração de trânsito. Tem pessoas que tampam a placa do veículo, passam direto para não pagar o pedágio. Ou seja, se não der para ver a placa, a pessoa se dá bem. Senão, leva multa.
+O limite de velocidade, não sei se todo mundo sabe, é de 40 km/h e 30 m de distância do outro veículo. Se a pessoa passar correndo, vai bater na cancela. Ou seja, não vai dar tempo da câmera ler a placa e abrir a cancela. Às vezes, as pessoas esquecem ou estão desligadas, vão na cabine manual (onde as pessoas coletam o dinheiro) em vez de passar na VI (abertura automática) e passam direto. E a cancela não abre. Outro exemplo, é quando o sistema do Sem Parar está bloqueado por problema ou falta de pagamento. Assim, ao tentar passar pela catraca na VI, ela não abrirá. Tem gente que pára, volta e faz o pagamento direitinho. No entanto, há outras pessoas que vão embora. Tem gente que faz de propósito e passa correndo atrás de outro carro - ‘passa no vácuo’, e dá evasão de pedágio. Se conseguirmos ver a placa, vai gerar uma multa, uma infração de trânsito. Tem pessoas que tampam a placa do veículo, passam direto para não pagar o pedágio. Ou seja, se não der para ver a placa, a pessoa se dá bem. Senão, leva multa.
 
 <li> Quanto comum são essas ocorrências? </li>
 
@@ -138,7 +136,7 @@ Algumas empresas/praças não cobram moto, como é o caso da nossa. Antigamente,
 
 <li> E hoje, quais são/eram seus sonhos? Por exemplo, sei que sempre quis viajar e nunca fez isso e agora está fazendo. </li>
 
-Tinha uma prima que viajava muito, até queria viajar um dia mas eu achava que isso nunca ia acontecer. Eu era muito apegada a sua avó e ela não gostava de sair e, portanto, eu também não ia. Não deixava ela por nada nesse mundo.  Eu lembro de quando o Leozão falou que eu ia conhecer o Havaí, e eu falei: ‘imagina, impossível.’
+Tinha uma prima que viajava muito, até queria viajar um dia mas eu achava que isso nunca ia acontecer. Eu era muito apegada a sua avó e ela não gostava de sair e, portanto, eu também não ia. Não deixava ela por nada nesse mundo. Eu lembro de quando o Leozão falou que eu ia conhecer o Havaí, e eu falei: ‘imagina, impossível.’
 
 <li> E por que você achava impossível? </li>
 
@@ -183,12 +181,11 @@ Gostei, sabe que quando eu começo a falar, eu não paro.
 Esse é justamente o ponto desse blog, mostrar que todo mundo é interessante e tem algo para contar.
 
 “Foi legal! Achei q ia ser pior.”
+
 </ol>
 
+_Por que não se inspirar e entrevistar sua própria mãe? Você sabe como foi/é a maternidade para ela? Sabe o que ela faz? Sabe o que ela pensa hoje em dia?_
 
-*Por que não se inspirar e entrevistar sua própria mãe? Você sabe como foi/é a maternidade para ela? Sabe o que ela faz? Sabe o que ela pensa hoje em dia?*
+_O que você sabia sobre pedágios? Já tinha parado para pensar?_
 
-*O que você sabia sobre pedágios? Já tinha parado para pensar?*
-
-*O que te prende de ir atrás dos seus sonhos? Por que não tentar?*
-
+_O que te prende de ir atrás dos seus sonhos? Por que não tentar?_
