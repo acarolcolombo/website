@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: home.njk
 title: Home
 banner: assets/banners/plant-with-web.jpg
 ---
@@ -30,33 +30,8 @@ If you would like to know a bit more about my career, please have a look at <a h
 </div>
 </div>
 
-<h2 id="about">Stories</h2>
+<h2 id="stories">Stories</h2>
 
 Stories can change perspectives, economies, and beliefs. The same story can be told by different people in distinct contexts. Not only each storyteller or each context can modify the shape of the story, but also each listener or reader can interpret it uniquely based on their own background and previous knowledge.
 
 This is the beauty of a story. As in a book, it can always be there, simple and pure, however full of meanings. Or like in the folklore, it can be changing all the time, however maintinaing the its same essence.
-
-- [Once More](/stories/once-more) #fiction #narrative
-- [Delayed Flight](/stories/delayed-flight) #fiction #narrative
-- [Changing Roles](/stories/changing-roles) #non-fiction #blog
-
-<h2 id="contact">Contact</h2>
-
-<ul class="fa-ul">
-<li>
-<i class="fa-li fas fa-envelope"></i>
-<a href="mailto:contact@acarolcolombo.com">contact@acarolcolombo.com</a>
-</li>
-<li>
-<i class="fa-li fab fa-linkedin" aria-hidden="true"></i>
-<a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-github" aria-hidden="true"></i>
-<a href="https://github.com/acarolcolombo">@acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-twitter" aria-hidden="true"></i>
-<a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
-</li>
-</ul>

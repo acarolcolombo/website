@@ -2,6 +2,7 @@
 layout: stories.njk
 title: Changing Roles
 banner: assets/banners/once-more-draw.jpg
+date: 2017-11-05
 ---
 
 Sometimes people say that you need to experience something in order to learn about it. Even if someone tells you how something feels, you will never understand it completely unless you change roles with them and actually live it.

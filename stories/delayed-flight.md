@@ -2,6 +2,8 @@
 layout: stories.njk
 title: Delayed Flight
 banner: assets/banners/once-more-draw.jpg
+date: 2021-06-25
+tags: stories
 ---
 
 Marina was walking from one side to another in the airport terminal near Gate B30. They started calling for the premium passengers to board into the airplane whose destination was Recife. She used the loo one more time just to be sure. Although the trip was short, only about 3 hours from Rio de Janeiro, she couldn’t imagine herself balancing to pee in the air. At least she imagined that would be like when she uses the loo in the bus, everything shaking and even worse when the bus had to stop. A nightmare. Lucas held her sweating hands, stopping her for a few minutes. “You’ll love the experience! I’m here with you.” In a way, his words calm her down for a moment. She felt secure with him. She has never conceived she would realise her dream to go to the Northeastern beaches of Brazil to celebrate their first year together. Lucas had organised every detail of the trip, which left her without words. Life was finally giving her a break from her complicated and unlucky experiences.
