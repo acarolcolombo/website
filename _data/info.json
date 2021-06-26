@@ -10,11 +10,13 @@
         "en": {
             "Home" : "/",
             "About": "/#about",
+            "Stories": "/#stories",
             "Contact": "/#contact"
         },
         "pt": {
             "Home" : "/pt",
             "Sobre": "/pt/#about",
+            "Estórias": "/#stories",
             "Contato": "/pt/#contact"
         }
     },

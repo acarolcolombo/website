@@ -2,6 +2,8 @@
 layout: stories.njk
 title: Once More
 banner: assets/banners/plant-with-web.jpg
+date: 2021-06-15
+tags: stories
 ---
 
 I always thought… about everything and anything. I used to daydream all the time. When I wasn’t able to sleep at night I would create a story, usually a romance, until I fell asleep. I’ve realised that I always put a lot of drama in the stories and my main issue was losing someone I loved or not being important anymore for someone that I cared about. I guess I'm afraid of losing. Not sure why. Also, a dreamer and a bit of a drama queen, used to pity myself in loads of situations. I can’t play piano, why am I like this? Instead of being patient and eager to learn, I used to depreciate myself saying why weren’t you able to do that? I kinda wish I was perfect, in fact, the way I was treating myself was so hard that the only explanation was that I had to be perfect, know everything from the start. Quite boring living a life in ones own head, if there are so many things in real life to explore. But how to move from the dream to reality. A reality that you’ve been so far away from. Restrained to your bubble of friends and thoughts, living your normal life which seems so emotionally intense and stupidly hard, doesn’t help at all. How to change? How to live more, being more kind to myself? I guess living more and being more kind to myself! Action became my motto. When you act you test your ideas in the real world. And that’s how it all started…

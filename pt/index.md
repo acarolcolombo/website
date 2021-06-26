@@ -29,11 +29,9 @@ Se você quiser saber um pouco mais sobre minha carreira, acesse <a href="https:
 </div>
 </div>
 
-<h2 id="about">Estórias</h2>
+<h2 id="stories">Estórias</h2>
 
 Estórias podem mudar perspectivas, economias e crenças. A mesma estória pode ser contada por diferentes pessoas em diferentes contextos. Não apenas cada contador de estória ou cada contexto pode mudar a forma da estória, mas cada ouvinte ou leitor pode interpretá-la diferentemente baseado nas suas próprias experiências e conhecimento prévios.
 
 Esta é a beleza de uma estória. Como em um livro, ela pode estar sempre lá,
 simples e plena, mas cheia de significados. Ou como no folclore, ela pode estar sempre mudando, mas cheia da mesma essência.
-
-- [Uma vez mais](/stories/once-more)

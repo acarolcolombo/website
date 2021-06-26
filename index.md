@@ -30,10 +30,8 @@ If you would like to know a bit more about my career, please have a look at <a h
 </div>
 </div>
 
-<h2 id="about">Journal</h2>
+<h2 id="stories">Journal</h2>
 
 Stories can change perspectives, economies, and beliefs. The same story can be told by different people in distinct contexts. Not only each storyteller or each context can modify the shape of the story, but also each listener or reader can interpret it uniquely based on their own background and previous knowledge.
 
 This is the beauty of a story. As in a book, it can always be there, simple and pure, however full of meanings. Or like in the folklore, it can be changing all the time, however maintinaing the its same essence.
-
-- [Once More](/stories/once-more)

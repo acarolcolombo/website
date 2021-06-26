@@ -6,10 +6,10 @@
     {{ content | safe }}
 
     <ul>
-    {% for page in collections.posts %}
+    {% for page in collections.stories %}
         <li>
-            ({{ page.data.date.toISOString().split('T')[0].replaceAll('-', '/') }})
             <a href="{{ page.url }}">{{ page.data.title }}</a>
+            <span class="story-date">({{ page.data.date.toISOString().split('T')[0].replaceAll('-', '/') }})</span>
         </li>
     {% endfor %}
     </ul>
