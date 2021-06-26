@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: home.njk
 title: Home
 banner: assets/banners/plant-with-web.jpg
 ---
@@ -37,24 +37,3 @@ Esta é a beleza de uma estória. Como em um livro, ela pode estar sempre lá,
 simples e plena, mas cheia de significados. Ou como no folclore, ela pode estar sempre mudando, mas cheia da mesma essência.
 
 - [Uma vez mais](/stories/once-more)
-
-<h2 id="contact">Contato</h2>
-
-<ul class="fa-ul">
-<li>
-<i class="fa-li fas fa-envelope"></i>
-<a href="mailto:contact@acarolcolombo.com">contact@acarolcolombo.com</a>
-</li>
-<li>
-<i class="fa-li fab fa-linkedin" aria-hidden="true"></i>
-<a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-github" aria-hidden="true"></i>
-<a href="https://github.com/acarolcolombo">@acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-twitter" aria-hidden="true"></i>
-<a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
-</li>
-</ul>

@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: home.njk
 title: Home
 banner: assets/banners/plant-with-web.jpg
 ---
@@ -37,24 +37,3 @@ Stories can change perspectives, economies, and beliefs. The same story can be t
 This is the beauty of a story. As in a book, it can always be there, simple and pure, however full of meanings. Or like in the folklore, it can be changing all the time, however maintinaing the its same essence.
 
 - [Once More](/stories/once-more)
-
-<h2 id="contact">Contact</h2>
-
-<ul class="fa-ul">
-<li>
-<i class="fa-li fas fa-envelope"></i>
-<a href="mailto:contact@acarolcolombo.com">contact@acarolcolombo.com</a>
-</li>
-<li>
-<i class="fa-li fab fa-linkedin" aria-hidden="true"></i>
-<a href="https://linkedin.com/in/acarolcolombo">linkedin.com/in/acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-github" aria-hidden="true"></i>
-<a href="https://github.com/acarolcolombo">@acarolcolombo</a>
-</li>
-<li>
-<i class="fa-li fab fa-twitter" aria-hidden="true"></i>
-<a href="https://twitter.com/acarolcolombo">@acarolcolombo</a>
-</li>
-</ul>

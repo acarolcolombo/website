@@ -22,5 +22,33 @@
         "🇬🇧": "/",
         "🇧🇷": "/pt"
     },
-    "language": "en"
+    "language": "en",
+    "contact": {
+        "title": {
+            "en": "Contact",
+            "pt": "Contato"
+        },
+        "links": [
+            {
+                "icon": "fas fa-envelope",
+                "url": "mailto:contact@acarolcolombo.com",
+                "text": "contact@acarolcolombo.com"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "url": "https://linkedin.com/in/acarolcolombo",
+                "text": "LinkedIn"
+            },
+            {
+                "icon": "fab fa-github",
+                "url": "https://github.com/acarolcolombo",
+                "text": "GitHub: @acarolcolombo"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "url": "https://twitter.com/acarolcolombo",
+                "text": "Twitter: @acarolcolombo"
+            }
+        ]
+    }
 }
