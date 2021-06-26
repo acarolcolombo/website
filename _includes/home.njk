@@ -9,7 +9,7 @@
     {% for page in collections.stories %}
         <li>
             <a href="{{ page.url }}">{{ page.data.title }}</a>
-            <span class="story-date">({{ page.data.date.toISOString().split('T')[0].replaceAll('-', '/') }})</span>
+            <span class="story-date">({{ page.data.date.toISOString().split('T')[0].replace('-', '/').replace('-', '/') }})</span>
         </li>
     {% endfor %}
     </ul>

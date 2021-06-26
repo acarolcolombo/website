@@ -4,7 +4,7 @@
 
     <h1>{{ title }}</h1>
 
-    <span class="story-date">{{ date.toISOString().split('T')[0].replaceAll('-', '/') }}</span>
+    <span class="story-date">{{ date.toISOString().split('T')[0].replace('-', '/').replace('-', '/') }}</span>
 
     {{ content | safe }}
 
