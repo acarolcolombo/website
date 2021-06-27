@@ -21,7 +21,7 @@ She felt secure with him.
 She had never conceived she would fulfil her dream to go to the
 Northeastern beaches of Brazil to celebrate their first year together.
 Lucas had organised every detail of the trip, which left her speechless.
-Life was finally giving her a break from her complicated and unlucky experiences.
+She was finally having a break from her complicated and unlucky life.
 
 The flight was even better than she expected, she wasn't sick at all.
 She could picture herself dancing in the clouds.
@@ -92,3 +92,5 @@ The policeman noticed her genuine confusion and continued
 You almost got away from it.”
 Lucas finally said “Marina is innocent. I arranged everything for this trip.
 Please let her go.” Marina started sobbing “Lucas, what have you done?”
+
+_**Lyrics:** Power of Two by Indigo Girls._
