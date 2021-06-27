@@ -12,7 +12,7 @@ She went to the loo one more time just to be safe.
 Although the trip was short, only about 3 hours from Rio de Janeiro,
 she couldn't imagine herself balancing to pee in the air.
 At least she imagined that it would be like doing it in the bus,
-everything shaking and, even worse, when the bus suddenly stops.
+everything shaking and, even worse when the bus suddenly stops.
 A nightmare.
 Lucas held her sweating hands, stopping her for a few minutes.
 "You’ll love the experience! I’m here with you."
@@ -43,7 +43,7 @@ She would pinch her arm every now and then to be sure that she wasn't dreaming.
 After one week, she had a small bruise in her left arm.
 When she thought everything was perfect, she realised it wasn't… yet.
 That night in a restaurant facing the most stunning beach she has ever seen,
-she was asked “Will you marry me?”
+she was asked “Will you marry me?”.
 She jumped pulling her arms around Lucas, and without fighting her tears,
 she gave him dozens of kisses.
 While driving to the airport, they talked about the wedding and the trip. When silence fell, she would keep living all the moments again and again in her head.
@@ -52,14 +52,14 @@ She smiled.
 The flight was delayed for an hour due to aircraft maintenance.
 She was happy to postpone her awakening.
 
-“Marina Lemos and Lucas Silva, please proceed to our balcony at the entrance of gate 2C” was announced by the speakers.
+“Marina Lemos and Lucas Silva, please proceed to our balcony at the entrance of gate 2C”, was announced by the speakers.
 They looked at each other and shrugged.
 When they arrived at the balcony, the attendant asked for their IDs and tickets,
 she had to double check some information in the system.
 She seemed distressed when she hung up the phone.
 Marina wasn’t really paying much attention, but she noticed that Lucas was a bit pale.
 He was looking at the security officers that were approaching them from behind her.
-She held Lucas’ hands “what is going on?”
+She held Lucas’ hands “What is going on?”
 
 The officers asked them to go to a private room.
 Marina was still desperately trying to look for answers.
@@ -91,6 +91,6 @@ The policeman noticed her genuine confusion and continued
 “Such a smart move, using a similar name to organise a scam like this.
 You almost got away from it.”
 Lucas finally said “Marina is innocent. I arranged everything for this trip.
-Please let her go.” Marina started sobbing “Lucas, what have you done?”
+Please let her go.” Marina started sobbing “Lucas, what have you done?”.
 
 _**Lyrics:** Power of Two by Indigo Girls._
