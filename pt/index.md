@@ -31,7 +31,14 @@ Se você quiser saber um pouco mais sobre minha carreira, acesse <a href="https:
 
 <h2 id="stories">Estórias</h2>
 
-Estórias podem mudar perspectivas, economias e crenças. Cada contador de estória pode mudar sua forma, e cada ouvinte pode interpretá-la de fomra única baseado nas suas próprias experiências.
+Estórias podem mudar perspectivas, economias e crenças.
+<br>
+Cada contador de estória pode mudar sua forma.
+<br>
+Cada ouvinte pode interpretá-la de forma única baseado nas suas próprias experiências.
 
-Esta é a beleza de uma estória. Ela pode estar sempre lá,
-simples e plena, imutável, mas cheia de significados, como em um livro. Ou como no folclore, ela pode estar mudando constantemente, mas cheia da mesma essência.
+Esta é a beleza de uma estória.
+<br>
+Como em um livro, ela está sempre lá imutável mas cheia de significados.
+<br>
+Como no folclore, ela muda constantemente mas cheia da mesma essência.
