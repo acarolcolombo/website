@@ -1,6 +1,6 @@
 ---
 layout: stories.njk
-title: Delayed Flight
+title: Delayed flight
 banner: assets/banners/once-more-draw.jpg
 date: 2021-06-25
 tags: stories

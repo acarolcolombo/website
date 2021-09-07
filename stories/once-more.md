@@ -1,6 +1,6 @@
 ---
 layout: stories.njk
-title: Once More
+title: Once more
 banner: assets/banners/once-more-draw.jpg
 date: 2021-06-15
 tags: stories
