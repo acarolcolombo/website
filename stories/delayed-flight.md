@@ -1,9 +1,9 @@
 ---
-layout: stories.njk
 title: Delayed flight
 banner: assets/banners/once-more-draw.jpg
 date: 2021-06-25
 tags: stories
+template: stories.html
 ---
 
 Marina was pacing back and forth in the airport terminal near Gate B30.

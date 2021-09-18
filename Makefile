@@ -1,8 +1,11 @@
-all: 
-	eleventy --config=config.js
+CONFIG=config.yml
+
+
+all:
+	nene --config=$(CONFIG)
 
 serve:
-	eleventy --config=config.js --serve
+	nene --config=$(CONFIG) --serve
 
 clean:
-	rm -r _site
+	rm -r _build

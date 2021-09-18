@@ -1,7 +1,7 @@
 ---
-layout: home.njk
 title: Home
 banner: assets/banners/plant-with-web.jpg
+template: home.html
 ---
 
 <h2 id="about">Sobre</h2>

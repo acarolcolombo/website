@@ -1,9 +1,9 @@
 ---
-layout: stories.njk
 title: Reflection - back to the start
 banner: assets/banners/once-more-draw.jpg
 date: 2021-07-08
 tags: stories
+template: stories.html
 ---
 
 Have you ever found that side of yourself that was hidden? Maybe because of a previous traumatic situation, a reprehension by your peers, or even a lack of self esteem? Don’t worry, this is not a self help story. Nonetheless, it is based on a song called Reflection. I have been writing lately, which is obvious since you’re reading this, but just to say I have just started my journey as a creative writer. That’s what I thought...

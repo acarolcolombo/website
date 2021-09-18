@@ -1,4 +1,4 @@
-{%- set language = language | default(info.language) -%}
+{%- set language = page.language | default(config.language) -%}
 <!doctype html>
 <html lang="{{ language }}">
 
@@ -8,10 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Define metadata -->
-  <meta name="author" content="{{ info.site_author }}"/>
-  <meta name="keywords" content="{{ info.keywords }}"/>
+  <meta name="author" content="{{ config.site_author }}"/>
+  <meta name="keywords" content="{{ config.keywords }}"/>
 
-  <title>{{ info.site_name[language] }}</title>
+  <title>{{ config.site_name[language] }}</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/css/style.css">
@@ -24,20 +24,20 @@
 
 <body>
 
-  <header style="background-image: linear-gradient(to top, #00000000, #000000ff), url(/{{ banner }}) ;" >
+  <header style="background-image: linear-gradient(to top, #00000000, #000000ff), url(/{{ page.banner }}) ;" >
   {% block header %}
     <div  class="container">
       <div class="navigation">
         <div class="brand">
-          <a href="/">{{ info.site_name[language] }}</a>
+          <a href="/">{{ config.site_name[language] }}</a>
         </div>
         <div class="menu">
-            {% for name, url in info.site_menu[language] %}
+            {% for name, url in config.site_menu[language].items() %}
               <span><a href="{{ url }}">{{ name }}</a></span>
             {% endfor %}
         </div>
         <div class="language_menu">
-            {% for name, url in info.site_language_menu %}
+            {% for name, url in config.site_language_menu.items() %}
               <span><a href="{{ url }}">{{ name }}</a></span>
             {% endfor %}
         </div>
@@ -53,12 +53,12 @@
   {% block footer %}
     <div  class="container">
       <p>
-        © {{ build.year }} {{ info.site_author }}
+        © {{ config.year }} {{ config.site_author }}
         •
-        Built using <a target="_blank" href="https://www.11ty.dev/">Eleventy</a>
+        Built using <a target="_blank" href="https://nene.leouieda.com/">Nēnē</a>
         •
         Source code
-        <a target="_blank" href="https://github.com/{{ info.site_source }}">on Github</a>
+        <a target="_blank" href="https://github.com/{{ config.site_source }}">on Github</a>
         <i class="fab fa-github"></i>
       </p>
     </div>

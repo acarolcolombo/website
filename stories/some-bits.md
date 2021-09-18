@@ -1,9 +1,9 @@
 ---
-layout: stories.njk
 title: Some bits
 banner: assets/banners/once-more-draw.jpg
 date: 2021-08-31
 tags: stories
+template: stories.html
 ---
 
 There was no precision
