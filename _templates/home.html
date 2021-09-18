@@ -15,12 +15,10 @@
 
     <ul>
     {% for page in stories|sort(attribute="date", reverse=True) %}
-        {% if page.parent == "stories" %}
         <li>
             <a href="/{{ page.path }}">{{ page.title }}</a>
             <span class="story-date">({{ page.date }})</span>
         </li>
-        {% endif %}
     {% endfor %}
     </ul>
 
