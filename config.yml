@@ -7,19 +7,19 @@ site_author: Ana Caroline Colombo
 keywords: bla,meh,yeah
 language: en
 site_language_menu:
-  "\U0001F1E7\U0001F1F7": /pt
   "\U0001F1EC\U0001F1E7": /
+  "\U0001F1E7\U0001F1F7": /pt
 site_menu:
   en:
-    About: /#about
-    Contact: /#contact
     Home: /
+    About: /#about
     Stories: /#stories
+    Contact: /#contact
   pt:
-    Contato: /pt/#contact
-    "Est\xF3rias": /#stories
     Home: /pt
     Sobre: /pt/#about
+    Estórias: /#stories
+    Contato: /pt/#contact
 contact:
   links:
   - icon: fas fa-envelope
