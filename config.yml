@@ -1,0 +1,42 @@
+year: '2021'
+site_name:
+  en: Ana Caroline Colombo
+  pt: Ana Caroline Colombo
+site_source: acarolcolombo/caroldoscopio
+site_author: Ana Caroline Colombo
+keywords: bla,meh,yeah
+language: en
+site_language_menu:
+  "\U0001F1E7\U0001F1F7": /pt
+  "\U0001F1EC\U0001F1E7": /
+site_menu:
+  en:
+    About: /#about
+    Contact: /#contact
+    Home: /
+    Stories: /#stories
+  pt:
+    Contato: /pt/#contact
+    "Est\xF3rias": /#stories
+    Home: /pt
+    Sobre: /pt/#about
+contact:
+  links:
+  - icon: fas fa-envelope
+    text: contact@acarolcolombo.com
+    url: mailto:contact@acarolcolombo.com
+  - icon: fab fa-linkedin
+    text: LinkedIn
+    url: https://linkedin.com/in/acarolcolombo
+  - icon: fab fa-github
+    text: 'GitHub: @acarolcolombo'
+    url: https://github.com/acarolcolombo
+  - icon: fab fa-twitter
+    text: 'Twitter: @acarolcolombo'
+    url: https://twitter.com/acarolcolombo
+  title:
+    en: Contact
+    pt: Contato
+ignore:
+  - README.md
+  - Makefile

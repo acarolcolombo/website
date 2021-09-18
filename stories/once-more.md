@@ -1,9 +1,9 @@
 ---
-layout: stories.njk
 title: Once more
 banner: assets/banners/once-more-draw.jpg
 date: 2021-06-15
 tags: stories
+template: stories.html
 ---
 
 I always thought… about everything and anything.

@@ -1,0 +1,9 @@
+name: acarolcolombo.com
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9
+  - pip
+  - pip:
+    - nene==0.1.1

@@ -1,0 +1,38 @@
+{% extends "page.html" %}
+
+{%- set language = page.language | default(config.language) -%}
+
+{% block content %}
+    {{ page.body | safe }}
+
+    {# Create a list of pages from the stories folder #}
+    {% set stories = [] %}
+    {% for id, page in site.items() %}
+      {% if page.parent == "stories" %}
+        {% do stories.append(page) %}
+      {% endif %}
+    {% endfor %}
+
+    <ul>
+    {% for page in stories|sort(attribute="date", reverse=True) %}
+        {% if page.parent == "stories" %}
+        <li>
+            <a href="/{{ page.path }}">{{ page.title }}</a>
+            <span class="story-date">({{ page.date }})</span>
+        </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+
+    <h2 id="contact">{{ config.contact.title[language] }}</h2>
+
+    <ul class="fa-ul">
+    {% for contact in config.contact.links %}
+        <li>
+        <i class="fa-li {{ contact.icon }}"></i>
+        <a href="{{ contact.url }}">{{ contact.text }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+
+{% endblock %}

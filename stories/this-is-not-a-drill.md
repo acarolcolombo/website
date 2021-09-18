@@ -1,9 +1,9 @@
 ---
-layout: stories.njk
 title: This is not a drill
 banner: assets/banners/once-more-draw.jpg
 date: 2021-07-05
 tags: stories
+template: stories.html
 ---
 
 The cellphone made a weird noise, it wasn’t a call nor a message sound. Half asleep, I thought about how odd it was, and saw my husband trying to wake up. I fell back asleep; it was probably nothing important since it was Saturday morning.
