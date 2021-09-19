@@ -1,31 +1,12 @@
-html {
-    position: relative;
-    min-height: 100%;
-    scroll-behavior: smooth;
-}
-
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14pt;
-    color: #333333;
-    /* Margin bottom by footer height with a little room to accomodate small screens */
-    margin: 0 0 400px 0;
-}
-
-h1 {
-    font-size: 24pt;
-}
-
-h2 {
-    font-size: 16pt;
-}
-
+/* Styles for basic elements */
 a {
-    text-decoration: none;
+  color: #0a58ca;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  color: #0a58ca;
+  text-decoration: underline;
 }
 
 img {
@@ -34,97 +15,33 @@ img {
 
 footer {
     width: 100%;
-    /*background-color: #111111;*/
-    color: #666666;
-    padding: 60px 0;
-    margin: 60px 0 0 0;
+    color: var(--bs-gray-600);
+    padding: 3rem 0;
+    margin-top: 5rem;
     text-align: center;
-    /* To stick the footer to the bottom of the page */
-    position: absolute;
-    bottom: 0;
-    /* Set the fixed height of the footer here */
-    min-height: 50px;
-    line-height: 22pt;
 }
 
 header {
-    font-size: 14pt;
-    color: #333333;
-    width: 100%;
-    min-height: 550px;
-    background-position: center;
-    background-size: cover;
-    margin: 0px 0px 60px 0px;
-    padding: 0px;
+  background-color: #000000;
+  font-size: 1rem;
 }
 
-header a {
-    color: #ffffff;
-    text-decoration: none;
+
+/* Tweaks to Bootstrap classes */
+:root {
+  --bs-body-font-size: 1.1rem;
 }
 
-.navigation {
-    line-height: 20pt;
-    margin: 0;
-    padding: 30px 0px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.brand {
-    flex-grow: 1;
-    flex-shrink: 0;
-    padding: 0 20px 0 0;
-    margin: 0;
-}
-
-.menu {
-    flex-grow: 0;
-    flex-shrink: 1;
-    padding: 0;
-    margin: 0;
-}
-
-.menu > span {
-    padding-right: 10px;
-}
-
-.language_menu {
-    flex-grow: 0;
-    flex-shrink: 1;
-    padding: 0;
-    margin: 0;
-}
-
-.language_menu > span {
-    padding-right: 6px;
-}
-
-/* To wrap all content in a page */
 .container {
-    max-width: 1000px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0px 40px;
+  max-width: 980px;
 }
 
-/* Use it in a div to wrap flexbox content */
-.flex-container {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
 }
 
-#about-text {
-    flex: 2;
-    padding-right: 30px;
-}
-
-#about-image {
-    flex: 1;
+.navbar-brand {
+  font-size: 1rem;
 }
 
 .fa-ul {
@@ -132,33 +49,29 @@ header a {
     line-height: 1.7em;
 }
 
-@media (max-width: 700px) {
-    .navigation {
-        display: block;
-        text-align: center;
-    }
-    .brand {
-        padding: 0 0 10px 0;
-    }
-    .menu {
-        padding: 0 0 10px 0;
-    }
-    .menu > span {
-        padding: 0 10px;
-    }
-    .language_menu > span {
-        padding: 0 6px;
-    }
-    header {
-        min-height: 400px;
-    }
-    .flex-container {
-        display: block;
-    }
-    #about-text {
-        padding: 0;
-    }
-    #about-image {
-        padding: 20px 0;
-    }
+
+/* Custom classes */
+.banner {
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #ffffff;
+}
+
+.banner-text {
+  padding: 4rem 0;
+}
+
+.page-content {
+  margin-top: 5rem;
+  max-width: 700px;
+}
+
+.about-name {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.about-img {
+  margin-bottom: 2rem;
 }

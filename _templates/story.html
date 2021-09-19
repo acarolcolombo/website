@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block body %}
+  <div class="container page-content">
+    <p>
+      <span class="story-tags">Tags</span>
+      <span class="story-date">{{ page.date }}</span>
+    </p>
+    {{ page.body | safe }}
+  </div>
+{% endblock %}

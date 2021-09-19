@@ -3,68 +3,123 @@
 <html lang="{{ language }}">
 
 <head>
-{% block head %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Define metadata -->
-  <meta name="author" content="{{ config.site_author }}"/>
-  <meta name="keywords" content="{{ config.keywords }}"/>
+  <meta name="author" content="{{ config.author }}"/>
 
-  <title>{{ config.site_name[language] }}</title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/assets/fontawesome/css/all.css">
+  {%- if page.custom_page_title is defined %}
+    {%- set title = page.custom_page_title|striptags|e %}
+  {%- else %}
+    {%- set title = page.title|striptags|e + " | " + config.site_name[language]|striptags|e %}
+  {%- endif %}
+  <title>{{ title }}</title>
 
   <!-- Site favicon -->
   <link rel="shortcut icon" href="/assets/favicon.png">
-{% endblock %}
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="/css/bootstrap-5.1/bootstrap.min.css">
+  <!-- FontAwsome icons -->
+  <link rel="stylesheet" href="/css/fontawesome/css/all.css">
+  <!-- Main CSS stylesheet -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  {%- block extrahead %}{% endblock %}
 </head>
 
 <body>
-
-  <header style="background-image: linear-gradient(to top, #00000000, #000000ff), url(/{{ page.banner }}) ;" >
-  {% block header %}
-    <div  class="container">
-      <div class="navigation">
-        <div class="brand">
-          <a href="/">{{ config.site_name[language] }}</a>
-        </div>
-        <div class="menu">
-            {% for name, url in config.site_menu[language].items() %}
-              <span><a href="{{ url }}">{{ name }}</a></span>
-            {% endfor %}
-        </div>
-        <div class="language_menu">
-            {% for name, url in config.site_language_menu.items() %}
-              <span><a href="{{ url }}">{{ name }}</a></span>
-            {% endfor %}
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark" aria-labelledby="primary-navigation">
+      <div class="container align-middle">
+        <a class="navbar-brand" href="/">
+          {{ config.site_name[language] }}
+        </a>
+        <button class="navbar-toggler" type="button"
+                data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse align-middle"  id="navbarNav">
+          <ul class="navbar-nav ms-md-auto flex-row flex-wrap">
+            {%- for entry in config.navigation[language] %}
+              <li class="nav-item col-6 col-md-auto">
+                {% set aria = "" %}
+                {% set class = "nav-link" %}
+                {% set href = "/" ~ site[entry.id].path %}
+                {%- if entry.heading is defined %}
+                  {% set href = href ~ "/#" ~ entry.heading %}
+                {%- endif %}
+                {%- if page.id == entry.id and not entry.heading is defined %}
+                  {% set aria = 'aria-current="page"' %}
+                {%- endif %}
+                <a class="{{ class }}" {{ aria }} href="{{ href }}">{{ entry.name }}</a>
+              </li>
+            {%- endfor %}
+            {%- for entry in config.language_menu %}
+              <li class="nav-item col-6 col-md-auto">
+                <a class="nav-link" href="/{{ site[entry.id].path|replace('index.html', '') }}">
+                  <span role="img" aria-label="{{ entry.language }}" title="{{ entry.language }}">{{ entry.icon }}</span>
+                </a>
+              </li>
+            {%- endfor %}
+          </ul>
         </div>
       </div>
-    </div>
-  {% endblock %}
+    </nav>
   </header>
 
-  {% block body %}
-  {% endblock %}
+  <main>
+    {%- if page.is_article is defined and page.is_article %}
+      {%- set container_type = "article" %}
+    {%- else %}
+      {%- set container_type = "section" %}
+    {%- endif %}
+    <{{ container_type }}>
+      {%- set gradient = "linear-gradient(to top, #00000066, #000000ff)" %}
+      <div class="container-fluid banner" style="background-image: {{ gradient }}, url(/{{ page.banner }});">
+        <div class="container banner-text">
+          {%- if page.banner_title is defined %}
+            <h1>{{ page.banner_title }}</h1>
+          {%- else %}
+            <h1>{{ page.title }}</h1>
+          {%- endif %}
+          {%- if page.banner_subtitle is defined %}
+            <p class="lead">
+              {{ page.banner_subtitle }}
+            </p>
+          {%- endif %}
+        </div>
+      </div>
+      {%- block body %}
+        <div class="container page-content">
+          {{ page.body }}
+        </div>
+      {%- endblock %}
+    </{{ container_type }}>
+  </main>
 
   <footer>
-  {% block footer %}
     <div  class="container">
       <p>
-        © {{ config.year }} {{ config.site_author }}
-        •
         Built using <a target="_blank" href="https://nene.leouieda.com/">Nēnē</a>
         •
         Source code
         <a target="_blank" href="https://github.com/{{ config.site_source }}">on Github</a>
         <i class="fab fa-github"></i>
       </p>
+      <p>
+        Copyright © {{ config.year }} {{ config.author }}
+      </p>
     </div>
-  {% endblock %}
   </footer>
 
-</body>
+  <!-- Bootstrap bundled Javascript (with their dependencies) -->
+  <script src="/js/bootstrap-5.1/bootstrap.bundle.min.js"
+    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+    crossorigin="anonymous"></script>
 
+</body>
 </html>
