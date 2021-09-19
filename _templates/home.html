@@ -14,13 +14,37 @@
       {% endif %}
     {% endfor %}
 
-    <ul>
+    <div class="row mt-3 gy-5 gx-5">
       {% for page in stories|sort(attribute="date", reverse=True) %}
-        <li>
-          <a href="/{{ page.path }}">{{ page.title }}</a>
-          <span class="story-date">({{ page.date }})</span>
-        </li>
+        <div class="col-sm-6  d-flex align-items-stretch">
+          <div class="card">
+            <img src="/{{ page.banner }}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title fs-5 mb-2">{{ page.title }}</h3>
+              <p class="card-text text-muted">
+                {%- if page.description is defined %}
+                  {{ page.description|striptags|trim }}
+                {%- else %}
+                  {{ page.body|striptags|truncate(100) }}
+                {%- endif %}
+              </p>
+              <a href="/{{ page.path }}" class="btn btn-secondary fs-6">Full story</a>
+            </div>
+            <div class="card-footer fs-6">
+              <p class="mb-0">
+                <i class="fa fa-tag" aria-hidden="true" title="Tags"></i>
+                <span class="hidden">Tags:</span>
+                {%- for tag in page.tags %}
+                  {{ tag }}{% if not loop.last %},{% endif %}
+                {%- endfor %}
+                <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
+                <span class="hidden">Date:</span>
+                {{ page.date|replace("-", "/") }}
+              </p>
+            </div>
+          </div>
+        </div>
       {% endfor %}
-    </ul>
+    </div>
   </div>
 {% endblock %}

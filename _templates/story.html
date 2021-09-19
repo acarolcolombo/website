@@ -1,11 +1,22 @@
 {% extends "base.html" %}
 
 {% block body %}
-  <div class="container page-content">
-    <p>
-      <span class="story-tags">Tags</span>
-      <span class="story-date">{{ page.date }}</span>
-    </p>
+  <div class="container page-content narrow-page">
     {{ page.body | safe }}
+    <p class="text-muted fs-6 my-5">
+      <i class="fa fa-tag" aria-hidden="true" title="Tags"></i>
+      <span class="hidden">Tags:</span>
+      {%- for tag in page.tags %}
+        {{ tag }}{% if not loop.last %},{% endif %}
+      {%- endfor %}
+      <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
+      <span class="hidden">Date:</span>
+      {{ page.date|replace("-", "/") }}
+    </p>
+    {%- if page.extra_info %}
+      <div class="callout">
+        <p>{{ page.extra_info }}</p>
+      </div>
+    {%- endif %}
   </div>
 {% endblock %}
