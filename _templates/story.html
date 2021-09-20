@@ -3,11 +3,12 @@
 {% block body %}
   <div class="container page-content narrow-page">
     {{ page.body | safe }}
-    <p class="text-muted fs-6 my-5">
+    <p class="fs-6 my-5">
       <i class="fa fa-tag" aria-hidden="true" title="Tags"></i>
       <span class="hidden">Tags:</span>
       {%- for tag in page.tags %}
-        {{ tag }}{% if not loop.last %},{% endif %}
+        <a class="tag-link" href="/tags.html#{{ tag }}">{{ tag }}</a>
+        {%- if not loop.last %},{%- endif %}
       {%- endfor %}
       <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
       <span class="hidden">Date:</span>

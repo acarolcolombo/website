@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{%- set language = page.language | default(config.language) -%}
+
+{% block body %}
+  <div class="container page-content">
+    {{ page.body | safe }}
+
+    {# Create a list of pages from the stories folder #}
+    {%- set stories = [] %}
+    {%- for id, page in site.items() %}
+      {%- if page.parent == "stories" %}
+        {%- do stories.append(page) %}
+      {%- endif %}
+    {%- endfor %}
+
+    {# Create a dict of tags with the respective pages #}
+    {%- set pages_per_tag = {} %}
+    {%- for page in stories %}
+      {%- for tag in page.tags %}
+        {%- if not tag in pages_per_tag %}
+          {%- do pages_per_tag.update({tag: []}) %}
+        {%- endif %}
+        {%- do pages_per_tag[tag].append(page) %}
+      {%- endfor %}
+    {%- endfor %}
+
+    {%- for tag, pages in pages_per_tag.items() %}
+      <h2 id="{{ tag }}" class="mb-4">
+        <i class="fa fa-tag" aria-hidden="true" title="Tag"></i>
+        {{ tag }}
+      </h2>
+      <div class="row gy-5 gx-5">
+        {%- for page in pages|sort(attribute="date", reverse=True) %}
+          <div class="col-sm-6  d-flex align-items-stretch">
+            <div class="card">
+              <div class="card-body">
+                <h3 class="card-title fs-5 mb-2">{{ page.title }}</h3>
+                <p class="card-text text-muted">
+                  {%- if page.description is defined %}
+                    {{ page.description|striptags|trim }}
+                  {%- else %}
+                    {{ page.body|striptags|truncate(100) }}
+                  {%- endif %}
+                </p>
+                <a href="/{{ page.path }}" class="btn btn-secondary fs-6">Full story</a>
+              </div>
+              <div class="card-footer fs-6">
+                <p class="mb-0">
+                  <i class="fa fa-tag" aria-hidden="true" title="Tags"></i>
+                  <span class="hidden">Tags:</span>
+                  {%- for tag in page.tags %}
+                    <a class="tag-link" href="/tags.html#{{ tag }}">{{ tag }}</a>
+                    {%- if not loop.last %},{%- endif %}
+                  {%- endfor %}
+                  <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
+                  <span class="hidden">Date:</span>
+                  {{ page.date|replace("-", "/") }}
+                </p>
+              </div>
+            </div>
+          </div>
+        {%- endfor %}
+      </div>
+      {%- if not loop.last %}<hr class="mt-5 mb-5">{%- endif %}
+    {%- endfor %}
+
+  </div>
+{% endblock %}
+

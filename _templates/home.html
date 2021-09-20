@@ -7,16 +7,16 @@
     {{ page.body | safe }}
 
     {# Create a list of pages from the stories folder #}
-    {% set stories = [] %}
-    {% for id, page in site.items() %}
-      {% if page.parent == "stories" %}
-        {% do stories.append(page) %}
-      {% endif %}
-    {% endfor %}
+    {%- set stories = [] %}
+    {%- for id, page in site.items() %}
+      {%- if page.parent == "stories" %}
+        {%- do stories.append(page) %}
+      {%- endif %}
+    {%- endfor %}
 
     <div class="row mt-3 gy-5 gx-5">
-      {% for page in stories|sort(attribute="date", reverse=True) %}
-        <div class="col-sm-6  d-flex align-items-stretch">
+      {%- for page in stories|sort(attribute="date", reverse=True) %}
+        <div class="col-sm-6 d-flex align-items-stretch">
           <div class="card">
             <img src="/{{ page.banner }}" class="card-img-top" alt="...">
             <div class="card-body">
@@ -35,7 +35,8 @@
                 <i class="fa fa-tag" aria-hidden="true" title="Tags"></i>
                 <span class="hidden">Tags:</span>
                 {%- for tag in page.tags %}
-                  {{ tag }}{% if not loop.last %},{% endif %}
+                  <a class="tag-link" href="/tags.html#{{ tag }}">{{ tag }}</a>
+                  {%- if not loop.last %},{%- endif %}
                 {%- endfor %}
                 <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
                 <span class="hidden">Date:</span>
@@ -44,7 +45,7 @@
             </div>
           </div>
         </div>
-      {% endfor %}
+      {%- endfor %}
     </div>
   </div>
 {% endblock %}

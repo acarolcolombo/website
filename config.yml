@@ -20,6 +20,8 @@ navigation:
       id: about
     - name: Contact
       id: contact
+    - name: Topics
+      id: tags
   pt:
     - name: Estórias
       id: pt/index
@@ -27,6 +29,8 @@ navigation:
       id: pt/about
     - name: Contato
       id: pt/contact
+    - name: Tópicos
+      id: pt/tags
 contact:
   links:
   - icon: fas fa-envelope
