@@ -41,6 +41,9 @@
                 <i class="fa fa-calendar-alt ms-2" aria-hidden="true" title="Date"></i>
                 <span class="hidden">Date:</span>
                 {{ page.date|replace("-", "/") }}
+                <i class="fa fa-clock ms-2" aria-hidden="true" title="Reading time"></i>
+                <span class="hidden">Reading time:</span>
+                {{ (page.body|striptags|wordcount / 238)|round(method="ceil")|int }} min
               </p>
             </div>
           </div>

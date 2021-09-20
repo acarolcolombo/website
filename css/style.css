@@ -92,12 +92,12 @@ header {
   background-color: var(--bs-gray-100);
 }
 
-a {
+a.tag-link {
   color: var(--bs-body-color);
   text-decoration: none;
 }
 
-a:hover {
+a.tag-link:hover {
   color: var(--bs-body-color);
   text-decoration: underline;
 }
