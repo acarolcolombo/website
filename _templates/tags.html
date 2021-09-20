@@ -25,7 +25,8 @@
       {%- endfor %}
     {%- endfor %}
 
-    {%- for tag, pages in pages_per_tag.items() %}
+    {%- for tag in pages_per_tag.keys()|sort %}
+      {%- set pages = pages_per_tag[tag] %}
       <h2 id="{{ tag }}" class="mb-4">
         <i class="fa fa-tag" aria-hidden="true" title="Tag"></i>
         {{ tag }}

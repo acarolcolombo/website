@@ -4,7 +4,7 @@ banner: assets/banners/once-more-draw.jpg
 date: 2021-07-05
 extra_info: "Based on a true story."
 tags:
-  - fiction
+  - true-story
   - creative-writing
 ---
 
