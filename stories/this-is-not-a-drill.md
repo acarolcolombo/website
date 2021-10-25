@@ -2,8 +2,10 @@
 title: This is not a drill
 banner: assets/banners/once-more-draw.jpg
 date: 2021-07-05
-tags: stories
-template: stories.html
+extra_info: "Based on a true story."
+tags:
+  - true-story
+  - creative-writing
 ---
 
 The cellphone made a weird noise, it wasn’t a call nor a message sound. Half asleep, I thought about how odd it was, and saw my husband trying to wake up. I fell back asleep; it was probably nothing important since it was Saturday morning.
@@ -23,5 +25,3 @@ Then, I started to think about everyone I loved, and how much I missed them. “
 Yes, he was right and soon started to refresh his Twitter page to see information about missile and Hawai’i. I double checked the news however there was nothing. Interesting to think how we were still looking for evidence and certainty, maybe because of our background as scientists? Or maybe because we just didn’t want to believe that was true? Suddenly, Joaquim soften his expression “Ha, I found a tweet from a congresswoman saying that the alert was a mistake. There is no missile!”. “Really? Could we believe her?”. “Apparently! She says that she had a confirmation from officials and they are trying to inform the residents.” I exhaled deeply, it was like I had arrived at the top of a mountain with a piano in my back and I finally dropped it off. We were so happy, like having another chance in life.
 
 After a few minutes later, around 30 minutes after the first alert, we got another alert message “There is no missile threat or danger to the State of Hawaii. Repeat. False Alarm.” We smiled to each other and we kissed. We found out later it was a miscommunication during a training at the Hawaiian Emergency Management Agency and the responsible manager resigned. To be honest, I don’t know what really happened that day, whether I believed in the explanation they gave us or not. Nonetheless, I certainly know now the meaning of “a drill”.
-
-_**Based on a true story**_

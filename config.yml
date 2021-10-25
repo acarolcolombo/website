@@ -2,24 +2,35 @@ year: '2021'
 site_name:
   en: Ana Caroline Colombo
   pt: Ana Caroline Colombo
-site_source: acarolcolombo/caroldoscopio
-site_author: Ana Caroline Colombo
-keywords: bla,meh,yeah
+author: Ana Caroline Colombo
 language: en
-site_language_menu:
-  "\U0001F1EC\U0001F1E7": /
-  "\U0001F1E7\U0001F1F7": /pt
-site_menu:
+repository: acarolcolombo/caroldoscopio
+language_menu:
+  - language: English version
+    icon: "\U0001F1EC\U0001F1E7"
+    id: index
+  - language: Portuguese version
+    icon: "\U0001F1E7\U0001F1F7"
+    id: pt/index
+navigation:
   en:
-    Home: /
-    About: /#about
-    Stories: /#stories
-    Contact: /#contact
+    - name: Stories
+      id: index
+    - name: About
+      id: about
+    - name: Contact
+      id: contact
+    - name: Topics
+      id: tags
   pt:
-    Home: /pt
-    Sobre: /pt/#about
-    Estórias: /#stories
-    Contato: /pt/#contact
+    - name: Estórias
+      id: pt/index
+    - name: Sobre
+      id: pt/about
+    - name: Contato
+      id: pt/contact
+    - name: Tópicos
+      id: pt/tags
 contact:
   links:
   - icon: fas fa-envelope
