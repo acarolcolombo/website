@@ -1,8 +1,8 @@
 ---
 custom_page_title: Ana Caroline Colombo
-banner_title: My space on the web <br> to be creative
-banner_subtitle: I'm an amateur writer bla bla bla
-banner: assets/banners/plant-with-web.jpg
+banner_title: My space on the web to be creative
+banner_subtitle: I'm an amateur writer,<br> former scientist and educator
+banner: assets/banners/spider.jpg
 template: home.html
 ---
 

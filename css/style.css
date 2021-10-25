@@ -52,14 +52,14 @@ header {
 
 /* Custom classes */
 .banner {
-  background-position: center;
+  background-position: bottom center;
   background-size: cover;
   text-align: center;
   color: #ffffff;
 }
 
 .banner-text {
-  padding: 7rem 0;
+  padding: 10rem 0;
 }
 
 .page-content {
