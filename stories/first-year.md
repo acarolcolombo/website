@@ -43,7 +43,7 @@ That feeling of trusting
 <br>
 And our connection 
 <br>
-Gave us a certainty that you are ready to fly
+Gave us the certainty that you're ready to fly
 <br>
 Just need a little guide
 
