@@ -57,8 +57,8 @@ You went from crawling
 <br>
 To unsteady walking
 
-Glad to be there
-<br>
+Glad to be there...
+
 For every little step
 <br>
 Of your precious development
