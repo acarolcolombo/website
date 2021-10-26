@@ -1,7 +1,7 @@
 ---
 custom_page_title: Ana Caroline Colombo
 banner_title: Meu espaço na teia criativa
-banner_subtitle: Eu sou uma escritora amadora, <br> ex-cientista e educadora
+banner_subtitle: Sou uma escritora amadora, <br> com formação em biologia e educação
 banner: assets/banners/spider.jpg
 template: home.html
 ---
@@ -10,12 +10,6 @@ template: home.html
 
 Estórias podem mudar perspectivas, economias e crenças.
 <br>
-Cada contador de estória pode mudar sua forma.
+Como em um livro, ela está sempre lá, imutável, mas cheia de significados.
 <br>
-Cada ouvinte pode interpretá-la de forma única baseado nas suas próprias experiências.
-
-Esta é a beleza de uma estória.
-<br>
-Como em um livro, ela está sempre lá imutável mas cheia de significados.
-<br>
-Como no folclore, ela muda constantemente mas cheia da mesma essência.
+Como no folclore, ela tende a mudar constantemente mas mantendo a mesma essência.

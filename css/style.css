@@ -22,7 +22,7 @@ footer {
 }
 
 header {
-  background-color: #000000;
+  background-color: #222222;
   font-size: 1rem;
 }
 
@@ -68,6 +68,10 @@ header {
 
 .narrow-page {
   max-width: 700px;
+}
+
+.indented p {
+  text-indent: 2rem;
 }
 
 .about-name {
