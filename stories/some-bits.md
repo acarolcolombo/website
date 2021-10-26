@@ -3,8 +3,7 @@ title: Some bits
 banner: assets/banners/once-more-draw.jpg
 date: 2021-08-31
 tags:
-  - fiction
-  - creative-writing
+  - poetry
 ---
 
 There was no precision
