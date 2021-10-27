@@ -1,6 +1,6 @@
 ---
 title: This is not a drill
-banner: assets/banners/once-more-draw.jpg
+banner: assets/banners/hawaii-sky.jpg
 date: 2021-07-05
 extra_info: "Based on a true story."
 tags:

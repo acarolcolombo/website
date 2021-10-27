@@ -1,12 +1,12 @@
 ---
 title: Your first year
-banner: assets/banners/once-more-draw.jpg
+banner: assets/banners/baby.jpg
 date: 2021-10-26
 tags:
   - poetry
 ---
 
-Time isn’t the same for everyone... 
+Time isn’t the same for everyone 
 
 A year has passed by 
 <br>
@@ -22,14 +22,14 @@ Admiring your big eyes
 <br>
 With all of your charms
 
-And your chubby cheeks...
+And your chubby cheeks
 
 You were so small
 <br>
 Like a cute doll
 <br>
 
-Now look at you...
+Now look at you
 
 Brave and curious
 <br>
@@ -47,7 +47,7 @@ Gave us the certainty that you're ready to fly
 <br>
 Just need a little guide
 
-You changed so much... 
+You changed so much 
 
 Funny to think 
 <br>
@@ -57,7 +57,7 @@ You went from crawling
 <br>
 To unsteady walking
 
-Glad to be there...
+Glad to be there
 
 For every little step
 <br>

@@ -1,6 +1,6 @@
 ---
 title: Delayed flight
-banner: assets/banners/once-more-draw.jpg
+banner: assets/banners/beach-brazil.jpg
 date: 2021-06-25
 extra_info: "Published in the Women of Words Anthology by Blackburne House, UK."
 tags:
