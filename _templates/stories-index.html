@@ -9,7 +9,7 @@
     {# Create a list of pages from the stories folder #}
     {%- set stories = [] %}
     {%- for id, page in site.items() %}
-      {%- if page.parent == "stories" %}
+      {%- if page.parent == "stories" and page.id[-5:] != "index" %}
         {%- do stories.append(page) %}
       {%- endif %}
     {%- endfor %}

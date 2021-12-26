@@ -14,10 +14,10 @@ language_menu:
     id: pt/index
 navigation:
   en:
-    - name: Stories
+    - name: Home
       id: index
-    - name: About
-      id: about
+    - name: Stories
+      id: stories/index
     - name: Science
       id: science
     - name: Contact
@@ -25,10 +25,10 @@ navigation:
     - name: Topics
       id: tags
   pt:
-    - name: Estórias
+    - name: Início
       id: pt/index
-    - name: Sobre
-      id: pt/about
+    - name: Estórias
+      id: pt/stories/index
     - name: Contato
       id: pt/contact
     - name: Tópicos
