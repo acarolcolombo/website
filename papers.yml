@@ -101,8 +101,8 @@ papers:
       state.
       </p>
 
-- doi: 10.1016/j.bbamcr.2017.12.007 
-    openaccess: true
+  - doi: 10.1016/j.bbamcr.2017.12.007 
+    openaccess: false
     title: |
       The putative flippase Apt1 is required for intracellular 
       membrane architecture and biosynthesis of polysaccharide and lipids 
@@ -143,14 +143,14 @@ papers:
       an important role in the physiology of C. neoformans.
       </p>
 
-- doi: 10.1016/j.febslet.2015.02.036  
-    openaccess: true
+  - doi: 10.1016/j.febslet.2015.02.036  
+    openaccess: false
     title: |
       Dual role of dopamine D2 -like receptors in the
       mediation of conditioned and unconditioned fear
     year: 2015
     authors: |
-     Brandão, M.L., de Oliveira, A.R., Muthuraju, S., Colombo, A.C., Saito, 
+      Brandão, M.L., de Oliveira, A.R., Muthuraju, S., Colombo, A.C., Saito, 
       V.M., Talbot, T.
     journal: FEBS Letters
     citation: |
@@ -182,20 +182,20 @@ papers:
       gating of aversive events.
       </p>
 
-- doi: 10.1590/0001-3765201520140704  
+  - doi: 10.1590/0001-3765201520140704  
     openaccess: true
     title: |
-     Fungal colonization of the brain: anatomopathological aspects of 
-     neurological cryptococcosis
+      Fungal colonization of the brain: anatomopathological aspects of 
+      neurological cryptococcosis
     year: 2015
     authors: |
-     COLOMBO, A.C., RODRIGUES, M.L.
+      COLOMBO, A.C., RODRIGUES, M.L.
     journal: Anais da Academia Brasileira de Ciências
     citation: |
-    COLOMBO, A.C., RODRIGUES, M.L., 2015. Fungal colonization of the 
-    brain: anatomopathological aspects of neurological cryptococcosis. 
-    An. Acad. Bras. Ciênc. https://doi.org/10.1590/0001-3765201520140704
-  abstract: |
+      COLOMBO, A.C., RODRIGUES, M.L., 2015. Fungal colonization of the 
+      brain: anatomopathological aspects of neurological cryptococcosis. 
+      An. Acad. Bras. Ciênc. https://doi.org/10.1590/0001-3765201520140704
+    abstract: |
       <p>
       Brain infection by the fungus Cryptococcus neoformans results in an 
       estimated 500,000 human deaths per annum. Colonization of the central 
@@ -212,21 +212,21 @@ papers:
       to enable the generation of new therapeutic tools in a near future.
       </p>
 
-- doi: 10.1371/journal.pone.0104228 
+  - doi: 10.1371/journal.pone.0104228 
     openaccess: true
     title: |
-     Dopamine D2-Like Receptors Modulate Unconditioned Fear: 
-    Role of the Inferior Colliculus
+      Dopamine D2-Like Receptors Modulate Unconditioned Fear: 
+      Role of the Inferior Colliculus
     year: 2014
     authors: |
-     de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão, 
-    M.L.
+      de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão, 
+      M.L.
     journal: PLoS ONE
     citation: |
-    de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão, 
-    M.L., 2014. Dopamine D2-Like Receptors Modulate Unconditioned Fear: 
-    Role of the Inferior Colliculus. PLoS ONE. https://doi.org/10.1371/journal.pone.0104228 
-  abstract: |
+      de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão, 
+      M.L., 2014. Dopamine D2-Like Receptors Modulate Unconditioned Fear: 
+      Role of the Inferior Colliculus. PLoS ONE. https://doi.org/10.1371/journal.pone.0104228 
+    abstract: |
       <p>
       Background
       A reduction of dopamine release or D2 receptor blockade in the terminal 
@@ -250,19 +250,19 @@ papers:
       startle response.
       </p>
 
-- doi: 10.1371/journal.pone.0104228 
+  - doi: 10.1371/journal.pone.0104228 
     openaccess: false
     title: |
-     Dopaminergic mechanisms underlying catalepsy, fear and anxiety: Do they interact?
+      Dopaminergic mechanisms underlying catalepsy, fear and anxiety: Do they interact?
     year: 2013
     authors: |
-     Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L.
+      Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L.
     journal: Behavioural Brain Research
     citation: |
-    Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L., 2013. Dopaminergic 
-    mechanisms underlying catalepsy, fear and anxiety: Do they interact? Behavioural 
-    Brain Research. https://doi.org/10.1016/j.bbr.2013.10.002  
-  abstract: |
+      Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L., 2013. Dopaminergic 
+      mechanisms underlying catalepsy, fear and anxiety: Do they interact? Behavioural 
+      Brain Research. https://doi.org/10.1016/j.bbr.2013.10.002  
+    abstract: |
       <p>
       Haloperidol is a dopamine D2 receptor antagonist that induces catalepsy when 
       systemically administered to rodents. The haloperidol-induced catalepsy is a 
