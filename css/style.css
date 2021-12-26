@@ -26,6 +26,12 @@ header {
   font-size: 1rem;
 }
 
+blockquote {
+  color: var(--bs-gray-600) !important;
+  border-left: 0.25rem solid var(--bs-gray-600);
+  padding-left: 1rem;
+}
+
 
 /* Tweaks to Bootstrap classes */
 :root {

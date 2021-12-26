@@ -18,6 +18,8 @@ navigation:
       id: index
     - name: About
       id: about
+    - name: Science
+      id: science
     - name: Contact
       id: contact
     - name: Topics

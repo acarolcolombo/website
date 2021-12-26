@@ -1,0 +1,102 @@
+# Citations are in elsevier-harvard style. Generate the citation information
+# here: https://citation.crosscite.org/
+
+papers:
+
+  - doi: 10.1128/mBio.02909-18
+    openaccess: true
+    title: |
+      Cryptococcus neoformans Glucuronoxylomannan and Sterylglucoside Are
+      Required for Host Protection in an Animal Vaccination Model
+    year: 2019
+    authors: |
+      Colombo, A.C., Rella, A., Normile, T., Joffe, L.S., Tavares, P.M., de S.
+      Araújo, G.R., Frases, S., Orner, E.P., Farnoud, A.M., Fries, B.C.,
+      Sheridan, B., Nimrichter, L., Rodrigues, M.L., Del Poeta, M.
+    journal: mBio
+    citation: |
+      Colombo, A.C., Rella, A., Normile, T., Joffe, L.S., Tavares, P.M., de S.
+      Araújo, G.R., Frases, S., Orner, E.P., Farnoud, A.M., Fries, B.C.,
+      Sheridan, B., Nimrichter, L., Rodrigues, M.L., Del Poeta, M., 2019.
+      Cryptococcus neoformans Glucuronoxylomannan and Sterylglucoside Are
+      Required for Host Protection in an Animal Vaccination Model. mBio.
+      https://doi.org/10.1128/mbio.02909-18
+    abstract: |
+      <p>
+      Cryptococcus neoformans is an encapsulated fungal pathogen that causes
+      meningoencephalitis. There are no prophylactic tools for cryptococcosis.
+      Previously, our group showed that a C. neoformans mutant lacking the gene
+      encoding sterylglucosidase (Δsgl1) induced protection in both
+      immunocompetent and immunocompromised murine models of cryptococcosis.
+      Since sterylglucosidase catalyzes degradation of sterylglucosides (SGs),
+      accumulation of this glycolipid could be responsible for protective
+      immunity. In this study, we analyzed whether the activity of SGs is
+      sufficient for the protective effect induced by the Δsgl1 strain. We
+      observed that the accumulation of SGs impacted several properties of the
+      main polysaccharide that composes the fungal capsule, glucuronoxylomannan
+      (GXM). We therefore used genetic manipulation to delete the SGL1 gene in
+      the acapsular mutant Δcap59 to generate a double mutant (strain
+      Δcap59/Δsgl1) that was shown to be nonpathogenic and cleared from the
+      lung of mice within 7 days post-intranasal infection. The inflammatory
+      immune response triggered by the Δcap59/Δsgl1 mutant in the lung differed
+      from the response seen with the other strains. The double mutant did not
+      induce protection in a vaccination model, suggesting that SG-related
+      protection requires the main capsular polysaccharide. Finally,
+      GXM-containing extracellular vesicles (EVs) enriched in SGs delayed the
+      acute lethality of Galleria mellonella against C. neoformans infection.
+      These studies highlighted a key role for GXM and SGs in inducing
+      protection against a secondary cryptococcal infection, and, since EVs
+      notoriously contain GXM, these results suggest the potential use of Δsgl1
+      EVs as a vaccination strategy for cryptococcosis.
+      </p>
+      <p>
+      <b>IMPORTANCE:</b> The number of deaths from cryptococcal meningitis is
+      around 180,000 per year. The disease is the second leading cause of
+      mortality among individuals with AIDS. Antifungal treatment is costly and
+      associated with adverse effects and resistance, evidencing the urgency of
+      development of both therapeutic and prophylactic tools. Here we
+      demonstrate the key roles of polysaccharide- and glycolipid-containing
+      structures in a vaccination model to prevent cryptococcosis.
+      </p>
+
+  - doi: 10.1097/FBP.0000000000000462
+    openaccess: false
+    title: |
+      Influence of aversive stimulation on haloperidol-induced catalepsy in
+      rats
+    year: 2019
+    authors: |
+      Barroca, N.C.B., Guarda, M.D., da Silva, N.T., Colombo, A.C., Reimer,
+      A.E., Brandão, M.L., de Oliveira, A.R.
+    journal: Behavioural Pharmacology
+    citation: |
+      Barroca, N.C.B., Guarda, M.D., da Silva, N.T., Colombo, A.C., Reimer,
+      A.E., Brandão, M.L., de Oliveira, A.R., 2019. Influence of aversive
+      stimulation on haloperidol-induced catalepsy in rats. Behavioural
+      Pharmacology. https://doi.org/10.1097/fbp.0000000000000462
+    abstract: |
+      <p>
+      Catalepsy – an immobile state in which individuals fail to change imposed
+      postures – can be induced by haloperidol. In rats, the pattern of
+      haloperidol-induced catalepsy is very similar to that observed in
+      Parkinson’s disease (PD). As some PD symptoms seem to depend on the
+      patient’s emotional state, and as anxiety disorders are common in PD, it
+      is possible that the central mechanisms regulating emotional and
+      cataleptic states interplay. Previously, we showed that haloperidol
+      impaired contextual-induced alarm calls in rats, without affecting
+      footshock-evoked calls. Here, we evaluated the influence of distinct
+      aversive stimulations on the haloperidol-induced catalepsy. First, male
+      Wistar rats were subjected to catalepsy tests to establish a baseline
+      state after haloperidol or saline administration. Next, distinct cohorts
+      were exposed to open-field; elevated plus-maze; open-arm confinement;
+      inescapable footshocks; contextual conditioned fear; or corticosterone
+      administration. Subsequently, catalepsy tests were performed again.
+      Haloperidol-induced catalepsy was verified in all drug-treated animals.
+      Exposure to open-field, elevated plus-maze, open-arm confinement,
+      footshocks, or administration of corticosterone had no significant effect
+      on haloperidol-induced catalepsy. Contextual conditioned fear, which is
+      supposed to promote a more intense fear, increased catalepsy over time.
+      Our findings suggest that only specific defensive circuitries modulate
+      the nigrostriatal system mediating the haloperidol-induced cataleptic
+      state.
+      </p>
