@@ -1,7 +1,7 @@
 ---
 custom_page_title: Ana Caroline Colombo
-banner_title: Meu espaço na teia criativa
-banner_subtitle: Sou uma escritora amadora, <br> com formação em biologia e educação
+banner_title: Olá, me chamo Ana Colombo
+banner_subtitle: Tenho formação como bióloga, cientista e educadora,<br> e sou uma escritora amadora
 banner: assets/banners/spider.jpg
 template: base.html
 ---
