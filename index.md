@@ -1,17 +1,17 @@
 ---
 custom_page_title: Ana Caroline Colombo
-banner_title: Hiya, I'm Ana Colombo
-banner_subtitle: I'm former biologist, scientist and educator,<br> and an amateur writer
+banner_title: Hiya, I'm Ana (Carol) Colombo
+banner_subtitle: I'm an amateur writer and <br> a trained biologist, scientist, and educator
 banner: assets/banners/spider.jpg
 template: base.html
 ---
 
-<h2 class="about-name">Ana Caroline Colombo</h2>
+<h2 class="about-name">About me</h2>
 
 <img src="/assets/about-image-b&w-yellow-crop.jpg" class="about-img"
      alt="Photo of me looking up at fall leaves in a park.">
 
-Hi, I'm Ana Caroline Colombo, Brazilian, biologist, educator, and proud mother
+I'm Brazilian, biologist, educator, and proud mother
 living in the United Kingdom.
 
 Exploring different subjects and finding a connection among them excites me.

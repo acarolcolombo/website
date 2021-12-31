@@ -1,17 +1,17 @@
 ---
 custom_page_title: Ana Caroline Colombo
-banner_title: Olá, me chamo Ana Colombo
-banner_subtitle: Tenho formação como bióloga, cientista e educadora,<br> e sou uma escritora amadora
+banner_title: Olá, me chamo Ana (Carol) Colombo
+banner_subtitle: Sou bióloga, cientista, educadora,<br> e escritora amadora
 banner: assets/banners/spider.jpg
 template: base.html
 ---
 
-<h2 class="about-name">Ana Caroline Colombo</h2>
+<h2 class="about-name">Quem sou</h2>
 
 <img src="/assets/about-image-b&w-yellow-crop.jpg" class="about-img"
      alt="Uma foto minha olhando para as folhas amarelas de uma árvore em um parque no outono.">
 
-Oi, meu nome é Ana Caroline Colombo, sou brasileira, bióloga, educadora, e mãe
+Sou brasileira, bióloga, educadora, e mãe
 cheia de orgulho. Atualmente, moro no Reino Unido.
 
 Explorar diferentes temas e encontrar uma conexão entre eles me motiva. Estar
