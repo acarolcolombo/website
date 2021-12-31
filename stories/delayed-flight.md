@@ -6,7 +6,7 @@ extra_info: "Published in the Women of Words Anthology by Blackburne House, UK."
 tags:
   - fiction
   - published
-  - brazil
+  - english
 ---
 
 <div class="indented">

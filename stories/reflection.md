@@ -4,7 +4,7 @@ banner: assets/banners/once-more-draw.jpg
 date: 2021-07-08
 tags:
   - monologue
-  - brazil
+  - english
 ---
 
 <div class="indented">

@@ -5,6 +5,7 @@ date: 2021-06-15
 tags:
   - fiction
   - monologue
+  - english
 ---
 
 <div class="indented">
