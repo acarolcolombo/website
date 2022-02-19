@@ -3,8 +3,7 @@ title: Reflection - back to the start
 banner: assets/banners/once-more-draw.jpg
 date: 2021-07-08
 tags:
-  - monologue
-  - english
+  - women's fiction
 ---
 
 <div class="indented">

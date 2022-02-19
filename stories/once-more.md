@@ -3,9 +3,7 @@ title: Once more
 banner: assets/banners/hands.jpg
 date: 2021-06-15
 tags:
-  - fiction
-  - monologue
-  - english
+  - drama
 ---
 
 <div class="indented">

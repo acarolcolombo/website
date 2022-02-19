@@ -3,9 +3,8 @@ title: O ventilador
 banner: assets/banners/ventilador.jpg
 date: 2018-07-15
 tags:
-  - poem
-  - poema
-  - português
+  - poetry
+  - poesia
 ---
 
 

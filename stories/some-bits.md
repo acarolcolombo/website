@@ -3,8 +3,7 @@ title: Some bits
 banner: assets/banners/maize-grits.jpg
 date: 2021-08-31
 tags:
-  - family
-  - english
+  - poetry
 ---
 
 There was no precision

@@ -4,8 +4,7 @@ banner: assets/banners/hawaii-sky.jpg
 date: 2021-07-05
 extra_info: "Based on a true story."
 tags:
-  - fiction
-  - english
+  - contemporary fiction
 ---
 
 <div class="indented">

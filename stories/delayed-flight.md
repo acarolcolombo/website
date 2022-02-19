@@ -2,11 +2,9 @@
 title: Delayed flight
 banner: assets/banners/beach-brazil.jpg
 date: 2021-06-25
-extra_info: "Published in the Women of Words Anthology by Blackburne House, UK."
+extra_info: "Published in the Women of Words Anthology in 2021 by Blackburne House, UK."
 tags:
-  - fiction
-  - published
-  - english
+  - contemporary fiction
 ---
 
 <div class="indented">
