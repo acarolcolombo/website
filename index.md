@@ -2,7 +2,7 @@
 custom_page_title: Ana Caroline Colombo
 banner_title: Hiya, I'm Ana (Carol) Colombo
 banner_subtitle: I'm an aspiring writer and <br> a trained biologist, scientist, and educator
-banner: assets/banners/spider.jpg
+banner: assets/banners/park.jpg
 template: base.html
 ---
 

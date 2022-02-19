@@ -2,7 +2,7 @@
 custom_page_title: Ana Caroline Colombo
 banner_title: Olá, me chamo Ana (Carol) Colombo
 banner_subtitle: Sou bióloga, cientista, educadora,<br> e escritora
-banner: assets/banners/birds-tree.jpg
+banner: assets/banners/spider.jpg
 template: base.html
 ---
 
