@@ -11,32 +11,23 @@ template: base.html
 <img src="/assets/about-image-b&w-yellow-crop.jpg" class="about-img"
      alt="Uma foto minha olhando para as folhas amarelas de uma árvore em um parque no outono.">
 
-Sou brasileira, bióloga, educadora, e mãe
-cheia de orgulho. Atualmente, moro no Reino Unido.
+Sou brasileira mas nos últimos cinco anos já morei em três diferentes ilhas do exterior:
+Long Island, Oahu, and Great Britain. 
 
-Explorar diferentes temas e encontrar uma conexão entre eles me motiva. Estar
-aberta a oportunidades me proporcionou explorar áreas distintas da biologia
-tais como: neurociência, comportamento, microbiologia, e botânica. Além disso,
-tem me inspirado a aprender mais sobre escrita criativa e programação nas quais
-estou tentando focar ultimamente. Abordar o processo de aprendizagem e
-desenvolvimento através de estágios em ensino, comunicação e divulgação
-científica, projetos de conservação, e design de recursos educacionais tem
-mudado minha perspectiva em todos os níveis de ensino.
+Eu amo natureza; e estudei biologia e licenciatura.
+Trabalhei como cientista em uma laboratório onde eu usava jaleco branco e desenvolvia e fazia experimentos científicos.
+E eu também trabalhei como educadora em um jardim botânico onde eu usava botas de trilha e explicava ciência para crianças.
 
-Ter a oportunidade de morar e trabalhar fora do país me permitiu conhecer e
-experienciar culturas e ideais políticos diferentes os quais aguçaram ainda
-mais meu senso de respeito, admiração e aceitação. Conectar-se com várias
-pessoas com diferente visões e percepções faz nossa própria história mais
-significativa. Eu tento manter e valorizar essas relações na minha vida.
+Atualmente, eu estou trabalhando em uma organização não-governamental (ONGs) que empodera estudantes menos favorecidos a buscarem uma carreira em
+Ciência, Tecnologia, Engenharia e Matemática (STEM) enquanto apoia diversidade em STEM. Eu acredito que podemos diminuir a desigualdade através 
+de educação e mentoria.
 
-Embora a maioria dos meus hobbies sejam relacionados à natureza, como fazer
-trilha e acampar, eu também gosto dos simples prazeres da vida como uma
-refeição saborosa, uma conversa engajante, e uma dança agradável.
+Minha jornada se emaranhou com a escrita criativa em 2021.
 
-Ao me tornar mãe aprendi muito sobre mim e sobre as minhas prioridades. Eu
-nunca fui tão boa em organizar meu tempo e transformar minhas ideias em ações.
+Eu escrevo estórias de crianças inpirada por ideias que surgem enquanto brinco com minha filha.
+Minhas estórias curtas tem influências da cultura brasileira e minha experiência como cientista.
 
-Esse site é um reflexo dessas experiências e eu irei construí-lo aos poucos.
+Esse site contém algumas das minhas estórias e meus artigos científicos.
 
 Se você quiser saber um pouco mais sobre minha carreira, acesse
 <a href="https://www.acarolcolombo.com/cv/accolombo-cv-portuguese.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">meu CV.</a>
