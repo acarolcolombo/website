@@ -1,6 +1,6 @@
 ---
 title: Contato
-banner: assets/banners/mushroom.jpg
+banner: assets/banners/plant-with-web.jpg
 template: base.html
 ---
 

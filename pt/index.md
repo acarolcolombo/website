@@ -1,15 +1,12 @@
 ---
 custom_page_title: Ana Caroline Colombo
 banner_title: Olá, me chamo Ana (Carol) Colombo
-banner_subtitle: Sou bióloga, cientista, educadora,<br> e escritora
+banner_subtitle: Bióloga, cientista, educadora,<br> e escritora
 banner: assets/banners/plant-with-web.jpg
 template: base.html
 ---
 
 <h2 class="about-name">Quem sou</h2>
-
-<img src="/assets/about-image-b&w-yellow-crop.jpg" class="about-img"
-     alt="Uma foto minha olhando para as folhas amarelas de uma árvore em um parque no outono.">
 
 Sou brasileira mas nos últimos cinco anos morei em três diferentes ilhas do exterior:
 Long Island, Oahu, and Great Britain. 
@@ -32,3 +29,6 @@ Esse site contém algumas das minhas estórias e dos meus artigos científicos.
 
 Se você quiser saber um pouco mais sobre minha carreira, acesse
 <a href="https://www.acarolcolombo.com/cv/accolombo-cv-portuguese.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">meu CV.</a>
+
+<img src="/assets/about-image-b&w-yellow-crop.jpg" class="about-img"
+     alt="Uma foto minha olhando para as folhas amarelas de uma árvore em um parque no outono.">
