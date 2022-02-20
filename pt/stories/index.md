@@ -1,6 +1,6 @@
 ---
 title: Estórias
-banner: assets/banners/bubbles.jpg
+banner: assets/banners/plant-with-web.jpg
 template: stories-index.html
 ---
 
