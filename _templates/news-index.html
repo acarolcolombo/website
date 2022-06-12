@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{%- set language = page.language | default(config.language) -%}
+
+{% block body %}
+  <div class="container page-content narrow-page">
+    {{ page.body | safe }}
+
+    {# Create a list of pages from the news folder #}
+    {%- set news = [] %}
+    {%- for id, page in site.items() %}
+      {%- if page.parent == "news" and page.id[-5:] != "index" %}
+        {%- do news.append(page) %}
+      {%- endif %}
+    {%- endfor %}
+
+    {%- for page in news|sort(attribute="date", reverse=True) %}
+        <h2 class="fs-3 mb-3">
+            {{ page.title|trim }}
+        </h2>
+        <p class="text-muted"> 
+            <i class="fa fa-calendar-alt" aria-hidden="true" title="Date"></i>
+            <span class="hidden">Date:</span>
+            {{ page.date|trim|replace("-", "/") }}
+        </p>
+        <p class="text-muted">
+            {{ page.body|striptags|truncate(150) }}
+        </p>
+        <a href="/{{ page.path }}" class="btn btn-secondary fs-6">Read more</a>
+    {%- endfor %}
+  </div>
+{% endblock %}

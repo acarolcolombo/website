@@ -16,6 +16,8 @@ navigation:
   en:
     - name: Home
       id: index
+    - name: News
+      id: news/index  
     - name: Stories
       id: stories/index
     - name: Science
