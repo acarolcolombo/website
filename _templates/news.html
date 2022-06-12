@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block body %}
+  <div class="container page-content narrow-page">
+    <p class="mb-4 text-muted"> 
+      <i class="fa fa-calendar-alt" aria-hidden="true" title="Date"></i>
+      <span class="hidden">Date:</span>
+      {{ page.date|replace("-", "/") }}
+    </p>
+    {{ page.body | safe }}
+  </div>
+{% endblock %}
