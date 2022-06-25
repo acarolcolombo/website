@@ -17,9 +17,10 @@ I love nature; and studied biology and education.
 I worked as:
 * a scientist in a lab where I used to wear a white coat and do scientific experiments,
 * an educator in a botanical garden where I used to wear hiking boots and explain science to kids,
-* an intern in a charity that empowers youth from disadvantage backgrounds to pursue STEM careers where I contributed with the planning and delivery of their summer programme.
+* an intern in a charity that empowers youth from disadvantaged backgrounds to pursue STEM careers where I contributed with the planning and delivery of their summer programme.
 
-Currently, I have been working as Outreach and Engagement Officer for the Society for Experimental Biology (SEB) where I work with scientists to organise and deliver scientific education and outreach projects for other scientits and the wider community. I also support the scientists that are members of the Society with their career development.  
+Currently, I have been working as Outreach and Engagement Officer for the Society for Experimental Biology (SEB) where I work with scientists to organise and deliver outreach, education and diversity projects for other scientits and the wider community. I also support these scientists that are members of the Society with their career development.  
+
 I believe that we can decrease inequality through mentoring and education.
 
 My journey got entangled with the creative writing path in 2021. 
