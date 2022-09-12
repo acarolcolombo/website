@@ -1,7 +1,7 @@
 ---
 custom_page_title: Ana Caroline Colombo
 banner_title: Olá, me chamo Ana (Carol) Colombo
-banner_subtitle: Bióloga, escritora e mãe.
+banner_subtitle: Bióloga, escritora, mãe.
 banner: assets/banners/plant-with-web.jpg
 template: base.html
 ---
@@ -20,11 +20,13 @@ Eu trabalhei como:
 * estagiária em uma organização não-governamental (ONG) que empodera estudantes menos favorecidos a buscarem uma carreira em
 Ciência, Tecnologia, Engenharia e Matemática (STEM) onde eu contribui com a organização do programa de verão.
 
-Atualmente, eu sou secretária de Engajamento e Divulgação da Sociedade de Biologia Experimental (SEB) onde eu trabalho com cientistas para organizar e executar projetos de divulgação, ciência e diversidade para a comunidade em geral e para biólogos experimentais. Eu também estou envolvida com projetos de desenvolvimento de carreira para cientistas.
+Atualmente, eu sou secretária de Engajamento e Divulgação da Sociedade de Biologia Experimental (SEB) onde minha principal função é organizar e executar projetos de educação científica e divulgação dentro da Sociedade e para o púlico em geral e promover diversidade, igualdade e inclusão na ciência. Eu também trabalho em projetos que auxiliam no desenvolvimento da carreira de cientistas.
 
 Eu acredito que podemos diminuir a desigualdade através de mentoria e educação. 
 
 Sou a autora do livro infantil ['The Fable of the Rain' ](https://www.acarolcolombo.com/news/book) (A Fábula da Chuva) com ilustrações de Bianca Voicu.
+
+[![Capa do livro que escrevi](../assets/book-cover.png)](https://bit.ly/3RQaFvw)
 
 Minha jornada se emaranhou com a escrita criativa em 2021.
 
