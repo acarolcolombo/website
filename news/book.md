@@ -7,7 +7,7 @@ It is official, I’m a children’s book author!
 
 Last week was the launch of my book 'The Fable of the Rain'. It was an [online event](https://twitter.com/acarolcolombo/status/1565278541465456642?s=20&t=MnEM-RL2NggyLIsGH_8S_w) including cover revelation, voxpop about the book, and link for purchase. I couldn´t concentrate on my work that day. It isn´t everyday that you launch your first book. 
 
-Yesterday, I got the printed version. What an incredible moment to see your ideas becoming real on paper. Not environmentally friendly but for a children’s book, it is a must. 
+Yesterday, I got the printed version. What an incredible moment to see my ideas becoming real on paper. Not environmentally friendly but for a children’s book, it is a must. 
 
 [![A box with some copies of the book I wrote](../assets/book.jpg)](https://bit.ly/3RQaFvw)
 
