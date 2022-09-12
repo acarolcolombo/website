@@ -1,9 +1,9 @@
 ---
-title: Showcase of my children's book "The Fable of the Rain"
+title: Showcase of my children's book 'The Fable of the Rain'
 date: 2022-03-01
 ---
 
-On 28th February, I had the pleasure to read my children's book "The Fable of the Rain" in the Children's Library at [Liverpool Central Library](https://liverpool.gov.uk/libraries/find-a-library/central-library/) during the [Liverpool Year of Writing Celebration event](https://twitter.com/acarolcolombo/status/1496956461649481737?s=20&t=7tyiaj4jth4Na82uwheQ2Q). During the performance, the kids heard the story while watching the amazing illustrations of the book created by [Bianca Voicu](https://www.linkedin.com/in/bianca-voicu-8309411a2/) on a screen. Hard to describe in words the anxiety before the performance and the fulfilment that came afterwards. It's never late to try news things!
+On 28th February, I had the pleasure to read my children's book 'The Fable of the Rain' in the Children's Library at [Liverpool Central Library](https://liverpool.gov.uk/libraries/find-a-library/central-library/) during the [Liverpool Year of Writing Celebration event](https://twitter.com/acarolcolombo/status/1496956461649481737?s=20&t=7tyiaj4jth4Na82uwheQ2Q). During the performance, the kids heard the story while watching the amazing illustrations of the book created by [Bianca Voicu](https://www.linkedin.com/in/bianca-voicu-8309411a2/) on a screen. Hard to describe in words the anxiety before the performance and the fulfilment that came afterwards. It's never late to try news things!
 
 This book was a result of the work developed during the [Write What's Next mentoring course](http://writingonthewall.org.uk/wwn-ybf/) organised by [Writing on the Wall](https://writingonthewall.org.uk/). 
 

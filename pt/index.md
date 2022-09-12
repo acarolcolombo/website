@@ -1,7 +1,7 @@
 ---
 custom_page_title: Ana Caroline Colombo
 banner_title: Olá, me chamo Ana (Carol) Colombo
-banner_subtitle: Bióloga, cientista, educadora,<br> e escritora
+banner_subtitle: Bióloga, escritora e mãe.
 banner: assets/banners/plant-with-web.jpg
 template: base.html
 ---
@@ -14,12 +14,17 @@ Long Island, Oahu, e Great Britain.
 
 Eu amo natureza; e estudei biologia.
 
-Trabalhei como cientista em uma laboratório onde eu usava jaleco branco e fazia experimentos científicos.
-E eu também trabalhei como educadora em um jardim botânico onde eu usava botas de trilha e explicava ciência para crianças.
+Eu trabalhei como:
+* cientista em uma laboratório onde eu usava jaleco branco e fazia experimentos científicos,
+* educadora em um jardim botânico onde eu usava botas de trilha e explicava ciência para crianças,
+* estagiária em uma organização não-governamental (ONG) que empodera estudantes menos favorecidos a buscarem uma carreira em
+Ciência, Tecnologia, Engenharia e Matemática (STEM) onde eu contribui com a organização do programa de verão.
 
-Atualmente, eu estou trabalhando em uma organização não-governamental (ONG) que empodera estudantes menos favorecidos a buscarem uma carreira em
-Ciência, Tecnologia, Engenharia e Matemática (STEM) enquanto apoia diversidade na área. Eu acredito que podemos diminuir a desigualdade através 
-de educação e mentoria.
+Atualmente, eu sou secretária de Engajamento e Divulgação da Sociedade de Biologia Experimental (SEB) onde eu trabalho com cientistas para organizar e executar projetos de divulgação, ciência e diversidade para a comunidade em geral e para biólogos experimentais. Eu também estou envolvida com projetos de desenvolvimento de carreira para cientistas.
+
+Eu acredito que podemos diminuir a desigualdade através de mentoria e educação. 
+
+Sou a autora do livro infantil ['The Fable of the Rain' ](https://www.acarolcolombo.com/news/book) (A Fábula da Chuva) com ilustrações de Bianca Voicu.
 
 Minha jornada se emaranhou com a escrita criativa em 2021.
 
@@ -28,7 +33,6 @@ Minhas estórias curtas tem influências da cultura brasileira e minha experiên
 
 Esse site contém algumas das minhas estórias e dos meus artigos científicos.
 
-Se você quiser saber um pouco mais sobre minha carreira, acesse
-<a href="https://www.acarolcolombo.com/cv/accolombo-cv-portuguese.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">meu CV.</a>
+
 
 

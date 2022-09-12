@@ -1,7 +1,7 @@
 ---
 custom_page_title: Ana Caroline Colombo
 banner_title: Hiya, I'm Ana (Carol) Colombo
-banner_subtitle: An aspiring writer and <br> a trained biologist, scientist, and educator
+banner_subtitle: Biologist, writer, and mum.
 banner: assets/banners/plant-with-web.jpg
 template: base.html
 ---
@@ -19,9 +19,11 @@ I worked as:
 * an educator in a botanical garden where I used to wear hiking boots and explain science to kids,
 * an intern in a charity that empowers youth from disadvantaged backgrounds to pursue STEM careers where I contributed with the planning and delivery of their summer programme.
 
-Currently, I have been working as Outreach and Engagement Officer for the Society for Experimental Biology (SEB) where I work with scientists to organise and deliver outreach, education and diversity projects for other scientits and the wider community. I also support these scientists that are members of the Society with their career development.  
+Currently, I'm the Outreach and Engagement Officer at the Society for Experimental Biology (SEB) where I work with scientists to organise and deliver outreach, education and diversity projects for other scientits and the wider community. I also support these scientists that are members of the Society with their career development.  
 
 I believe that we can decrease inequality through mentoring and education.
+
+I'm the children's book author of the book ['The Fable of the Rain'](https://www.acarolcolombo.com/news/book) with illustrations by Bianca Voicu.
 
 My journey got entangled with the creative writing path in 2021. 
 
