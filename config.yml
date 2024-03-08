@@ -5,36 +5,14 @@ site_name:
 author: Ana Caroline Colombo
 language: en
 repository: acarolcolombo/caroldoscopio
-language_menu:
-  - language: English version
-    icon: "\U0001F1EC\U0001F1E7"
-    id: index
-  - language: Portuguese version
-    icon: "\U0001F1E7\U0001F1F7"
-    id: pt/index
 navigation:
   en:
     - name: Home
       id: index
-    - name: News
-      id: news/index  
-    - name: Stories
-      id: stories/index
     - name: Science
       id: science
     - name: Contact
       id: contact
-    - name: Topics
-      id: tags
-  pt:
-    - name: Início
-      id: pt/index
-    - name: Estórias
-      id: pt/stories/index
-    - name: Contato
-      id: pt/contact
-    - name: Tópicos
-      id: pt/tags
 contact:
   links:
   - icon: fas fa-envelope
