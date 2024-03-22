@@ -1,0 +1,290 @@
+# Citations are in elsevier-harvard style. Generate the citation information
+# here: https://citation.crosscite.org/
+
+- doi: 10.1128/mBio.02909-18
+  openaccess: true
+  title: |
+    Cryptococcus neoformans Glucuronoxylomannan and Sterylglucoside Are
+    Required for Host Protection in an Animal Vaccination Model
+  year: 2019
+  authors: |
+    Colombo, A.C., Rella, A., Normile, T., Joffe, L.S., Tavares, P.M., de S.
+    Araújo, G.R., Frases, S., Orner, E.P., Farnoud, A.M., Fries, B.C.,
+    Sheridan, B., Nimrichter, L., Rodrigues, M.L., Del Poeta, M.
+  journal: mBio
+  citation: |
+    Colombo, A.C., Rella, A., Normile, T., Joffe, L.S., Tavares, P.M., de S.
+    Araújo, G.R., Frases, S., Orner, E.P., Farnoud, A.M., Fries, B.C.,
+    Sheridan, B., Nimrichter, L., Rodrigues, M.L., Del Poeta, M., 2019.
+    Cryptococcus neoformans Glucuronoxylomannan and Sterylglucoside Are
+    Required for Host Protection in an Animal Vaccination Model. mBio.
+    https://doi.org/10.1128/mbio.02909-18
+  abstract: |
+    <p>
+    Cryptococcus neoformans is an encapsulated fungal pathogen that causes
+    meningoencephalitis. There are no prophylactic tools for cryptococcosis.
+    Previously, our group showed that a C. neoformans mutant lacking the gene
+    encoding sterylglucosidase (Δsgl1) induced protection in both
+    immunocompetent and immunocompromised murine models of cryptococcosis.
+    Since sterylglucosidase catalyzes degradation of sterylglucosides (SGs),
+    accumulation of this glycolipid could be responsible for protective
+    immunity. In this study, we analyzed whether the activity of SGs is
+    sufficient for the protective effect induced by the Δsgl1 strain. We
+    observed that the accumulation of SGs impacted several properties of the
+    main polysaccharide that composes the fungal capsule, glucuronoxylomannan
+    (GXM). We therefore used genetic manipulation to delete the SGL1 gene in
+    the acapsular mutant Δcap59 to generate a double mutant (strain
+    Δcap59/Δsgl1) that was shown to be nonpathogenic and cleared from the
+    lung of mice within 7 days post-intranasal infection. The inflammatory
+    immune response triggered by the Δcap59/Δsgl1 mutant in the lung differed
+    from the response seen with the other strains. The double mutant did not
+    induce protection in a vaccination model, suggesting that SG-related
+    protection requires the main capsular polysaccharide. Finally,
+    GXM-containing extracellular vesicles (EVs) enriched in SGs delayed the
+    acute lethality of Galleria mellonella against C. neoformans infection.
+    These studies highlighted a key role for GXM and SGs in inducing
+    protection against a secondary cryptococcal infection, and, since EVs
+    notoriously contain GXM, these results suggest the potential use of Δsgl1
+    EVs as a vaccination strategy for cryptococcosis.
+    </p>
+    <p>
+    <b>IMPORTANCE:</b> The number of deaths from cryptococcal meningitis is
+    around 180,000 per year. The disease is the second leading cause of
+    mortality among individuals with AIDS. Antifungal treatment is costly and
+    associated with adverse effects and resistance, evidencing the urgency of
+    development of both therapeutic and prophylactic tools. Here we
+    demonstrate the key roles of polysaccharide- and glycolipid-containing
+    structures in a vaccination model to prevent cryptococcosis.
+    </p>
+
+- doi: 10.1097/FBP.0000000000000462
+  openaccess: false
+  title: |
+    Influence of aversive stimulation on haloperidol-induced catalepsy in
+    rats
+  year: 2019
+  authors: |
+    Barroca, N.C.B., Guarda, M.D., da Silva, N.T., Colombo, A.C., Reimer,
+    A.E., Brandão, M.L., de Oliveira, A.R.
+  journal: Behavioural Pharmacology
+  citation: |
+    Barroca, N.C.B., Guarda, M.D., da Silva, N.T., Colombo, A.C., Reimer,
+    A.E., Brandão, M.L., de Oliveira, A.R., 2019. Influence of aversive
+    stimulation on haloperidol-induced catalepsy in rats. Behavioural
+    Pharmacology. https://doi.org/10.1097/fbp.0000000000000462
+  abstract: |
+    <p>
+    Catalepsy – an immobile state in which individuals fail to change imposed
+    postures – can be induced by haloperidol. In rats, the pattern of
+    haloperidol-induced catalepsy is very similar to that observed in
+    Parkinson’s disease (PD). As some PD symptoms seem to depend on the
+    patient’s emotional state, and as anxiety disorders are common in PD, it
+    is possible that the central mechanisms regulating emotional and
+    cataleptic states interplay. Previously, we showed that haloperidol
+    impaired contextual-induced alarm calls in rats, without affecting
+    footshock-evoked calls. Here, we evaluated the influence of distinct
+    aversive stimulations on the haloperidol-induced catalepsy. First, male
+    Wistar rats were subjected to catalepsy tests to establish a baseline
+    state after haloperidol or saline administration. Next, distinct cohorts
+    were exposed to open-field; elevated plus-maze; open-arm confinement;
+    inescapable footshocks; contextual conditioned fear; or corticosterone
+    administration. Subsequently, catalepsy tests were performed again.
+    Haloperidol-induced catalepsy was verified in all drug-treated animals.
+    Exposure to open-field, elevated plus-maze, open-arm confinement,
+    footshocks, or administration of corticosterone had no significant effect
+    on haloperidol-induced catalepsy. Contextual conditioned fear, which is
+    supposed to promote a more intense fear, increased catalepsy over time.
+    Our findings suggest that only specific defensive circuitries modulate
+    the nigrostriatal system mediating the haloperidol-induced cataleptic
+    state.
+    </p>
+
+- doi: 10.1016/j.bbamcr.2017.12.007
+  openaccess: false
+  title: |
+    The putative flippase Apt1 is required for intracellular
+    membrane architecture and biosynthesis of polysaccharide and lipids
+    in Cryptococcus neoformans
+  year: 2018
+  authors: |
+    Rizzo, J., Colombo, A.C., Zamith-Miranda, D., Silva, V.K.A., Allegood, J.C.,
+    Casadevall, A., Del Poeta, M., Nosanchuk, J.D., Kronstad, J.W., Rodrigues,
+    M.L.
+  journal: Biochimica et Biophysica Acta (BBA) -
+    Molecular Cell Research
+  citation: |
+    Rizzo, J., Colombo, A.C., Zamith-Miranda, D., Silva, V.K.A., Allegood, J.C.,
+    Casadevall, A., Del Poeta, M., Nosanchuk, J.D., Kronstad, J.W., Rodrigues,
+    M.L., 2018. The putative flippase Apt1 is required for intracellular
+    membrane architecture and biosynthesis of polysaccharide and lipids
+    in Cryptococcus neoformans. Biochimica et Biophysica Acta (BBA) -
+    Molecular Cell Research. https://doi.org/10.1016/j.bbamcr.2017.12.007
+  abstract: |
+    <p>
+    Flippases are responsible for the asymmetric distribution of phospholipids
+    in biological membranes. In the encapsulated fungal pathogen Cryptococcus
+    neoformans, the putative flippase Apt1 is an important regulator of
+    polysaccharide secretion and pathogenesis in mice by unknown mechanisms.
+    In this study, we analyzed the role of C. neoformans Apt1 in intracellular
+    membrane architecture and synthesis of polysaccharide and lipids.
+    Analysis of wild type (WT), apt1Δ (mutant) and apt1Δ::APT1 (complemented)
+    strains by transmission electron microscopy revealed that deletion of
+    APT1 resulted in the formation of irregular vacuoles. Disorganization
+    of vacuolar membranes in apt1Δ cells was accompanied by a significant
+    increase in the amounts of intra-vacuolar and pigment-containing vesicles.
+    Quantitative immunogold labeling of C. neoformans cells with a monoclonal
+    antibody raised to a major capsular component suggested impaired
+    polysaccharide synthesis. APT1 deletion also affected synthesis of
+    phosphatidylserine, phosphatidylethanolamine, inositolphosphoryl ceramide,
+    glucosylceramide and ergosterylglycoside. These results reveal novel functions
+    of Apt1 and are in agreement with the notion that this putative flippase plays
+    an important role in the physiology of C. neoformans.
+    </p>
+
+- doi: 10.1016/j.febslet.2015.02.036
+  openaccess: false
+  title: |
+    Dual role of dopamine D2 -like receptors in the
+    mediation of conditioned and unconditioned fear
+  year: 2015
+  authors: |
+    Brandão, M.L., de Oliveira, A.R., Muthuraju, S., Colombo, A.C., Saito,
+    V.M., Talbot, T.
+  journal: FEBS Letters
+  citation: |
+    Brandão, M.L., de Oliveira, A.R., Muthuraju, S., Colombo, A.C., Saito,
+    V.M., Talbot, T., 2015. Dual role of dopamine D2 -like receptors in the
+    mediation of conditioned and unconditioned fear. FEBS Letters.
+    https://doi.org/10.1016/j.febslet.2015.02.036
+  abstract: |
+    <p>
+    A reduction of dopamine release or D2 receptor blockade in the terminal
+    fields of the mesolimbic system, particularly the amygdala, clearly reduces
+    conditioned fear. Similar D2 receptor antagonism in the neural substrates
+    of fear in the midbrain tectum attenuates the processing of unconditioned
+    aversive information. However, the implications of the interplay between
+    opposing actions of dopamine in the rostral and caudal segments of the
+    dopaminergic system are still unclear. Previous studies from this laboratory
+    have reported the effects of dopaminergic drugs on behavior in rats in the
+    elevated plus maze, auditory-evoked potentials (AEPs) recorded from the
+    midbrain tectum, fear-potentiated startle, and conditioned freezing. These
+    findings led to an interesting framework on the functional roles of dopamine
+    in both anxiety and fear states. Dopamine D2 receptor inhibition in the
+    terminal fields of the mesolimbic dopamine system generally causes
+    anxiolytic-like effects, whereas the activity of midbrain substrates of
+    unconditioned fear are enhanced by D2 receptor antagonists, suggesting
+    that D2 receptor-mediated mechanisms play opposing roles in fear/anxiety
+    processes, depending on the brain region under study. Dopamine appears to
+    mediate conditioned fear by acting at rostral levels of the brain and regulate
+    unconditioned fear at the midbrain level, likely by reducing the sensorimotor
+    gating of aversive events.
+    </p>
+
+- doi: 10.1590/0001-3765201520140704
+  openaccess: true
+  title: |
+    Fungal colonization of the brain: anatomopathological aspects of
+    neurological cryptococcosis
+  year: 2015
+  authors: |
+    COLOMBO, A.C., RODRIGUES, M.L.
+  journal: Anais da Academia Brasileira de Ciências
+  citation: |
+    COLOMBO, A.C., RODRIGUES, M.L., 2015. Fungal colonization of the
+    brain: anatomopathological aspects of neurological cryptococcosis.
+    An. Acad. Bras. Ciênc. https://doi.org/10.1590/0001-3765201520140704
+  abstract: |
+    <p>
+    Brain infection by the fungus Cryptococcus neoformans results in an
+    estimated 500,000 human deaths per annum. Colonization of the central
+    nervous system (CNS) by C. neoformans causes different clinical syndromes
+    that involve interaction of a number of fungal components with distinct
+    brain cells. In this manuscript, our literature review confirmed the
+    notion that the Cryptococcus field is expanding rapidly, but also
+    suggested that studies on neuropathogenesis still represent a small
+    fraction of basic research activity in the field. We therefore discussed
+    anatomical and physiological aspects of the brain during infection by C.
+    neoformans, in addition to mechanisms by which brain resident cells interact
+    with the fungus. This review suggests that multiple efforts are necessary
+    to improve the knowledge on how C. neoformans affects brain cells, in order
+    to enable the generation of new therapeutic tools in a near future.
+    </p>
+
+- doi: 10.1371/journal.pone.0104228
+  openaccess: true
+  title: |
+    Dopamine D2-Like Receptors Modulate Unconditioned Fear:
+    Role of the Inferior Colliculus
+  year: 2014
+  authors: |
+    de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão,
+    M.L.
+  journal: PLoS ONE
+  citation: |
+    de Oliveira, A.R., Colombo, A.C., Muthuraju, S., Almada, R.C., Brandão,
+    M.L., 2014. Dopamine D2-Like Receptors Modulate Unconditioned Fear:
+    Role of the Inferior Colliculus. PLoS ONE. https://doi.org/10.1371/journal.pone.0104228
+  abstract: |
+    <p>
+    Background
+    A reduction of dopamine release or D2 receptor blockade in the terminal
+    fields of the mesolimbic system clearly reduces conditioned fear. Injections of
+    haloperidol, a preferential D2 receptor antagonist, into the inferior colliculus
+    (IC) enhance the processing of unconditioned aversive information. However, a
+    clear characterization of the interplay of D2 receptors in the mediation of
+    unconditioned and conditioned fear is still lacking.
+    Methods
+    The present study investigated the effects of intra-IC injections of the
+    D2 receptor-selective antagonist sulpiride on behavior in the elevated plus maze
+    (EPM), auditory-evoked potentials (AEPs) to loud sounds recorded from the IC,
+    fear-potentiated startle (FPS), and conditioned freezing.
+    Results
+    Intra-IC injections of sulpiride caused clear proaversive effects in the EPM
+    and enhanced AEPs induced by loud auditory stimuli. Intra-IC sulpiride
+    administration did not affect FPS or conditioned freezing.
+    Conclusions
+    Dopamine D2-like receptors of the inferior colliculus play a role in the
+    modulation of unconditioned aversive information but not in the fear-potentiated
+    startle response.
+    </p>
+
+- doi: 10.1371/journal.pone.0104228
+  openaccess: false
+  title: |
+    Dopaminergic mechanisms underlying catalepsy, fear and anxiety: Do they interact?
+  year: 2013
+  authors: |
+    Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L.
+  journal: Behavioural Brain Research
+  citation: |
+    Colombo, A.C., de Oliveira, A.R., Reimer, A.E., Brandão, M.L., 2013. Dopaminergic
+    mechanisms underlying catalepsy, fear and anxiety: Do they interact? Behavioural
+    Brain Research. https://doi.org/10.1016/j.bbr.2013.10.002
+  abstract: |
+    <p>
+    Haloperidol is a dopamine D2 receptor antagonist that induces catalepsy when
+    systemically administered to rodents. The haloperidol-induced catalepsy is a
+    state of akinesia and rigidity very similar to that seen in Parkinson's disease.
+    There exists great interest in knowing whether or not some degree of emotionality
+    underlies catalepsy. If so, what kind of emotional distress would permeate such
+    motor disturbance? This study is an attempt to shed some light on this issue
+    through an analysis of ultrasound vocalizations (USVs) of 22 kHz, open-field
+    test, and contextual conditioned fear in rats with some degree of catalepsy
+    induced by haloperidol. Systemic administration of haloperidol caused catalepsy
+    and decreased exploratory activity in the open-field. There was no difference
+    in the emission of USVs between groups during the catalepsy or the exploratory
+    behavior in the open-field test. In the contextual conditioned fear, when
+    administered before training session, haloperidol did not change the emission
+    of USVs or the freezing response. When administered before testing session,
+    haloperidol enhanced the freezing response and decreased the emission of USVs
+    on the test day. These findings suggest that the involvement of dopaminergic
+    mechanisms in threatening situations depends on the nature of the aversive
+    stimulus. Activation of D2 receptors occurs in the setting up of adaptive
+    responses to conditioned fear stimuli so that these mechanisms seem to be
+    important for the emission of 22 kHz USVs during the testing phase of the
+    contextual conditioned fear, but not during the training session or the
+    open-field test (unconditioned fear stimuli). Catalepsy, on the other hand,
+    is the result of the blockage of D2 receptors in neural circuits associated
+    to motor behavior that appears to be dissociated from those directly linked
+    to dopamine-mediated neural mechanisms associated to fear.
+    </p>

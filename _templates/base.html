@@ -58,7 +58,7 @@
                 {%- if page.id == entry.id and not entry.heading is defined %}
                   {% set aria = 'aria-current="page"' %}
                 {%- endif %}
-                <a class="{{ class }}" {{ aria }} href="{{ href }}">{{ entry.name }}</a>
+                <a class="{{ class }}" {{ aria }} href="{{ href|replace('index.html', '') }}">{{ entry.name }}</a>
               </li>
             {%- endfor %}
             {%- for entry in config.language_menu %}

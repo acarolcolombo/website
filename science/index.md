@@ -1,12 +1,9 @@
 ---
 title: Scientific publications
-banner: assets/banners/plant-with-web.jpg
+banner: ../assets/banners/plant-with-web.jpg
 article_level_metrics: true
 template: base.html
 ---
-
-
-
 
 {%- for paper in page.papers %}
   {%- set id = loop.index %}

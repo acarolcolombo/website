@@ -10,9 +10,9 @@ navigation:
     - name: Home
       id: index
     - name: Science
-      id: science
+      id: science/index
     - name: Contact
-      id: contact
+      id: contact/index
 contact:
   links:
   - icon: fas fa-envelope
